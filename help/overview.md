@@ -1,6 +1,6 @@
 ---
-title: ジャーニーオーケストレーションのチュートリアル — 概要
-description: Jureny Orchestrationを使用すると、イベントやデータソースに保存されたコンテキストデータを活用した、リアルタイムのオーケストレーションの使用例を構築できます
+title: Journey Orchestrationチュートリアル — 概要
+description: Journey Orchestrationを使用すると、イベントやデータソースに保存されたコンテキストデータを活用した、リアルタイムのオーケストレーションの使用例を構築できます。
 products: Journey orchestration
 translation-type: tm+mt
 source-git-commit: d8a3de100c1b0607abf16e59dba8a5783f6097fc
@@ -13,12 +13,12 @@ ht-degree: 2%
 
 # 概要
 
-[!UICONTROL Jureny Orchestration] は、Adobe Experience Platformと統合されたアプリケーションサービスです。 イベントやデータソースに保存されたコンテキストデータを活用する、リアルタイムのオーケストレーションの使用例を構築できます。
+[!UICONTROL Journey Orchestration] は、Adobe Experience Platformと統合されたアプリケーションサービスです。 イベントやデータソースに保存されたコンテキストデータを活用する、リアルタイムのオーケストレーションの使用例を構築できます。
 
 ## 新機能
 
-* **[Jureny Orchestrationのヘルプの検索方法](/help/how-to-find-help-with-journey-orchestration.md)**   <br>
-   *「[!UICONTROL Jureny Orchestration]」に関する質問に対する回答をすばやく見つけられる場所、サポートへの連絡方法、サポートチケットのログを取る方法、およびフィードバックの提供方法を理解します。*
+* **[Journey Orchestrationに関するヘルプの検索方法](/help/how-to-find-help-with-journey-orchestration.md)**   <br>
+   *Journey Orchestrationに関する質問に対する回答をすばやく見つけられる場所、[!UICONTROL サポートへの問い合わせ方法]、サポートチケットのログの場所、およびフィードバックの提供方法を理解します。*
 
 ## スタッフの選考
 
@@ -26,15 +26,15 @@ ht-degree: 2%
 <tr>
   <td>
     <a href="./understanding-journey-orchestration.md">
-      <img alt="Understanding Jureny Orchestration" src="./assets/journey-orchestration-example.png"/>
+      <img alt="Journey Orchestrationについて" src="./assets/journey-orchestration-example.png"/>
     </a>
     <div>
       <a href="./understanding-journey-orchestration.md">
-    <strong>Understanding Jureny Orchestration</strong>
+    <strong>Journey Orchestrationについて</strong>
     </a>
     </div>
     <p>
-    <em>遍歴オーケストレーションの概念、それが有効にする使用例のタイプ、およびJurney Orchestrationの機能の主な要素を理解します。</em>
+    <em>Journey Orchestrationの概念、Journey Orchestrationが有効にする使用例のタイプ、および使用方法の主な要素を理解します。</em>
     <p>
   </td>
   <td>
@@ -68,6 +68,6 @@ ht-degree: 2%
 
 ## その他のリソース
 
-* [ジャーニーオーケストレーションヘルプセンター](https://docs.adobe.com/content/help/en/journeys/using/journey-orchestration-home.html)
+* [Journey Orchestrationヘルプセンター](https://docs.adobe.com/content/help/en/journeys/using/journey-orchestration-home.html)
 * [Adobe Experience Platformチュートリアル](https://docs.adobe.com/content/help/en/platform-learn/tutorials/overview.html)
 
