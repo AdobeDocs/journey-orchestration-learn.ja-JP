@@ -9,7 +9,7 @@ audience: developer
 doc-type: video
 activity: setup
 translation-type: tm+mt
-source-git-commit: 150119daaa767b925fdfbf6d277d2340e209f418
+source-git-commit: dafd8b529ec4326dd04fcf4ad766b0856cb3cfcc
 workflow-type: tm+mt
 source-wordcount: '268'
 ht-degree: 1%
@@ -24,9 +24,10 @@ ht-degree: 1%
 * 個人の直接的なアクション（製品の購入、店舗の訪問、オンライン買い物かごの破棄など）、または
 * 個人に関連する何か（例えば、彼らが10,000個の忠誠度ポイントに到達した）
 
-[!UICONTROL Journey Orchestration] イベントは、 [!UICONTROL XDMエクスペリエンスイベントで、ストリーミング取り込みを介してAdobe Experience Platformに送信され]ます。
+[!UICONTROL Journey Orchestration] イベントは、 [!UICONTROL XDMエクスペリエンスイベントで] 、ストリーミング取り込みを介してAdobe Experience Platformに送信され ます。
 
 >[!NOTE]
+>
 >次の事項について詳しくなければなりません。
 >
 >* [The Experience Data Model(XDM)](https://docs.adobe.com/content/help/en/platform-learn/tutorials/schemas/understanding-the-xdm-system-and-experience-data-model.html)
@@ -34,12 +35,10 @@ ht-degree: 1%
 >* [ストリーミングデータ取り込み](https://docs.adobe.com/content/help/en/platform-learn/tutorials/data-ingestion/understanding-streaming-ingestion.html)
 >
 >
-このビデオで使用されている例を理解するには、次のAdobe Experience Platform Servicesについても理解しておく必要があります。
+このビデオで使用されている例を理解するには、次のAdobe Experience Platformサービスについても理解しておく必要があります。
 >
->* [Adobe Experience Platform Mobile SDK — 起動](https://docs.adobe.com/content/help/en/core-services-learn/tutorials/launch-mobile/understanding-the-mobile-sdks.html)
->* [Adobe Experience Platform Location Service](https://docs.adobe.com/content/help/en/places/using/home.html)
->
-
+>* [Adobe Experience PlatformモバイルSDK — 起動](https://docs.adobe.com/content/help/en/core-services-learn/tutorials/launch-mobile/understanding-the-mobile-sdks.html)
+>* [Adobe Experience Platformロケーションサービス](https://docs.adobe.com/content/help/en/places/using/home.html)
 
 
 ## ストリー [!UICONTROL ミングイベントの設定方法]
