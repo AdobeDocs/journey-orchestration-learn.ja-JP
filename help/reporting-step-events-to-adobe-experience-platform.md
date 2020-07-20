@@ -9,7 +9,7 @@ audience: user
 doc-type: video
 activity: use
 translation-type: tm+mt
-source-git-commit: df5c132a8e66a9e9d2c8e7a2cf299a6a6a3527b7
+source-git-commit: 3d8621e0bdda1aa6b9a576fca07aacebd1ad46d5
 workflow-type: tm+mt
 source-wordcount: '119'
 ht-degree: 1%
@@ -20,7 +20,7 @@ ht-degree: 1%
 # レポートステップイベントから [!UICONTROL Adobe Experience Platform ]
 
 [!UICONTROL Journey Orchestration] ：旅行パフォーマンスデータを  Adobe Experience Platformに自動的に送信し、分析のために他のデータと組み合わせることができます。
-次のビデオでは、 [!UICONTROL 遍歴ステップのイベント] とは何か、 [!UICONTROL Experience Platform上に自動的に作成される] データステップ 、およびこれらを調べる方法について説明します。
+次のビデオでは、 [!UICONTROL 遍歴ステップのイベントとは何か、] Experience Platform上に自動的に作成される [!UICONTROL データステップ] 、およびこれらを調べる方法について説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/36636?quality=12)
 
