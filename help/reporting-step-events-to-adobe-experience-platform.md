@@ -1,6 +1,6 @@
 ---
-title: 'Adobe Experience Platformへのレポートの遍歴ステップイベント '
-description: このチュートリアルでは、遍歴のレポートに移動する方法、レポートの日付範囲をカスタマイズする方法、および将来的に使用するためにレポートテンプレートを保存する方法について説明します。
+title: 'Adobe Experience Platformへのレポート遍歴ステップイベント '
+description: 次のビデオでは、遍歴のステップイベントとは何か、およびExperience Platform時に自動的に作成されるデータステップと、それらを調べる方法について説明します。
 feature: Journey Orchestration
 topics: Introduction
 kt: 5488
@@ -9,15 +9,15 @@ audience: user
 doc-type: video
 activity: use
 translation-type: tm+mt
-source-git-commit: 3d8621e0bdda1aa6b9a576fca07aacebd1ad46d5
+source-git-commit: 524e075e4ac49e3aedc10a1fa879dbab4fe5888e
 workflow-type: tm+mt
-source-wordcount: '119'
-ht-degree: 1%
+source-wordcount: '114'
+ht-degree: 5%
 
 ---
 
 
-# レポートステップイベントから [!UICONTROL Adobe Experience Platform ]
+# レポートステップイベント [!UICONTROL Adobe Experience Platform ]
 
 [!UICONTROL Journey Orchestration] ：旅行パフォーマンスデータを  Adobe Experience Platformに自動的に送信し、分析のために他のデータと組み合わせることができます。
 次のビデオでは、 [!UICONTROL 遍歴ステップのイベントとは何か、] Experience Platform上に自動的に作成される [!UICONTROL データステップ] 、およびこれらを調べる方法について説明します。
