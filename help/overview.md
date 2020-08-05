@@ -1,11 +1,11 @@
 ---
-title: Journey Orchestrationチュートリアル — 概要
+title: Journey OrchestrationTutorials — 概要
 description: Journey Orchestrationを使用すると、イベントやデータソースに保存されたコンテキストデータを活用した、リアルタイムのオーケストレーションの使用例を構築できます。
 products: Journey orchestration
 translation-type: tm+mt
-source-git-commit: d8a3de100c1b0607abf16e59dba8a5783f6097fc
+source-git-commit: 524e075e4ac49e3aedc10a1fa879dbab4fe5888e
 workflow-type: tm+mt
-source-wordcount: '230'
+source-wordcount: '247'
 ht-degree: 2%
 
 ---
@@ -17,8 +17,10 @@ ht-degree: 2%
 
 ## 新機能
 
-* **[Journey Orchestrationに関するヘルプの検索方法](/help/how-to-find-help-with-journey-orchestration.md)**   <br>
-   *Journey Orchestrationに関する質問に対する回答をすばやく見つけられる場所、[!UICONTROL サポートへの問い合わせ方法]、サポートチケットのログの場所、およびフィードバックの提供方法を理解します。*
+* **[Adobe Experience Platformへのレポート遍歴ステップイベント](/help/how-to-find-help-with-journey-orchestration.md)**   <br>
+   *Experience Platform上で自動的に作成されるデータステップのジャーニーステップのイベントと、それらを調べる方法について説明します。*
+* **[セグメントクオリフィケーションイベントの使用](help/using-segment-qualification-events.md)**   <br>
+   *このビデオでは、セグメントクオリフィケーションイベントを入口または出口ポイントとして使用して、遍歴を作成する方法を簡単に説明します。*
 
 ## スタッフの選考
 
@@ -69,5 +71,5 @@ ht-degree: 2%
 ## その他のリソース
 
 * [Journey Orchestrationヘルプセンター](https://docs.adobe.com/content/help/en/journeys/using/journey-orchestration-home.html)
-* [Adobe Experience Platformチュートリアル](https://docs.adobe.com/content/help/en/platform-learn/tutorials/overview.html)
+* [Adobe Experience PlatformTutorials](https://docs.adobe.com/content/help/en/platform-learn/tutorials/overview.html)
 
