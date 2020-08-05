@@ -9,7 +9,7 @@ tutorials-url: https://docs.adobe.com/content/help/en/journey-orchestration-lear
 getting-started-title: ヘルプセンター
 getting-started-url: https://docs.adobe.com/content/help/en/journeys/using/journey-orchestration-home.html
 translation-type: tm+mt
-source-git-commit: 524e075e4ac49e3aedc10a1fa879dbab4fe5888e
+source-git-commit: f2533c2ec19d525d6366fa5366c82900eea9c5ff
 workflow-type: tm+mt
 source-wordcount: '80'
 ht-degree: 7%
@@ -22,7 +22,7 @@ ht-degree: 7%
 + [概要](/help/overview.md)
 + [Journey Orchestrationについて](/help/understanding-journey-orchestration.md)
 + [ストリーミングイベントの設定](/help/configuring-journey-orchestration/configure-streaming-events.md)
-+ [セグメントクオリフィケーションイベントの使用](help/using-segment-qualification-events.md)
++ [セグメントクオリフィケーションイベントの使用](/help/using-segment-qualification-events.md)
 + [データソースの設定](/help/configuring-journey-orchestration/configure-data-sources.md)
 + [アクションの設定](/help/configuring-journey-orchestration/configure-actions.md)
 + [旅を作る](/help/create-a-journey.md)
