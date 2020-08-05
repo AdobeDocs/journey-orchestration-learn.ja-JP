@@ -3,7 +3,7 @@ title: Journey OrchestrationTutorials — 概要
 description: Journey Orchestrationを使用すると、イベントやデータソースに保存されたコンテキストデータを活用した、リアルタイムのオーケストレーションの使用例を構築できます。
 products: Journey orchestration
 translation-type: tm+mt
-source-git-commit: 524e075e4ac49e3aedc10a1fa879dbab4fe5888e
+source-git-commit: f2533c2ec19d525d6366fa5366c82900eea9c5ff
 workflow-type: tm+mt
 source-wordcount: '247'
 ht-degree: 2%
@@ -19,7 +19,7 @@ ht-degree: 2%
 
 * **[Adobe Experience Platformへのレポート遍歴ステップイベント](/help/how-to-find-help-with-journey-orchestration.md)**   <br>
    *Experience Platform上で自動的に作成されるデータステップのジャーニーステップのイベントと、それらを調べる方法について説明します。*
-* **[セグメントクオリフィケーションイベントの使用](help/using-segment-qualification-events.md)**   <br>
+* **[セグメントクオリフィケーションイベントの使用](/help/using-segment-qualification-events.md)**   <br>
    *このビデオでは、セグメントクオリフィケーションイベントを入口または出口ポイントとして使用して、遍歴を作成する方法を簡単に説明します。*
 
 ## スタッフの選考
