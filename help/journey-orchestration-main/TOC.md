@@ -12,7 +12,7 @@ translation-type: tm+mt
 source-git-commit: f2533c2ec19d525d6366fa5366c82900eea9c5ff
 workflow-type: tm+mt
 source-wordcount: '80'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 95%
 + [概要](/help/overview.md)
 + [Journey Orchestration について](/help/understanding-journey-orchestration.md)
 + [ストリーミングイベントの設定](/help/configuring-journey-orchestration/configure-streaming-events.md)
-+ [セグメントクオリフィケーションイベントの使用](/help/using-segment-qualification-events.md)
++ [セグメントの選定イベントの使用](/help/using-segment-qualification-events.md)
 + [データソースの設定](/help/configuring-journey-orchestration/configure-data-sources.md)
 + [アクションの設定](/help/configuring-journey-orchestration/configure-actions.md)
 + [ジャーニーの作成](/help/create-a-journey.md)
