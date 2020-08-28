@@ -6,7 +6,7 @@ translation-type: tm+mt
 source-git-commit: 7ad1bc51bc8cf195759031056d45599c96388991
 workflow-type: tm+mt
 source-wordcount: '247'
-ht-degree: 80%
+ht-degree: 100%
 
 ---
 
@@ -20,11 +20,11 @@ ht-degree: 80%
 * **[Adobe Experience Platform へのジャーニーステップイベントのレポート](/help/reporting-step-events-to-adobe-experience-platform.md)**
 
    <br>
-   *Experience Platform上で自動的に作成されるデータステップのジャーニーステップのイベントと、それらを調べる方法について説明します。*
-* **[セグメントクオリフィケーションイベントの使用](/help/using-segment-qualification-events.md)**
+   *ジャーニーステップのイベント、Adobe Experience Platform 上で自動的に作成されるデータステップとその参照方法について説明します。*
+* **[セグメントの選定イベントの使用](/help/using-segment-qualification-events.md)**
 
    <br>
-   *このビデオでは、セグメントクオリフィケーションイベントを入口または出口ポイントとして使用して、遍歴を作成する方法を簡単に説明します。*
+   *このビデオでは、セグメントの選定イベントをエントリまたは離脱ポイントとするジャーニー作成の方法について簡単に説明します。*
 
 ## スタッフのおすすめ
 
