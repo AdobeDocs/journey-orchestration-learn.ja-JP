@@ -1,6 +1,6 @@
 ---
 title: AdobeJourney Orchestration用のストリーミングイベントの設定
-description: このビデオでは、Journey Orchestrationイベント用のXDMスキーマとデータセットの設定、Journey Orchestrationでのイベントの定義、イベントをストリーミングするソースシステムの設定方法を説明します
+description: このビデオでは、Journey Orchestration イベント用の XDM スキーマとデータセットの設定方法、Journey Orchestration でのイベントの定義方法、イベントをストリーミングするソースシステムの設定方法について説明します
 feature: Journey Orchestration
 topics: Events
 kt: 3731
@@ -12,7 +12,7 @@ translation-type: tm+mt
 source-git-commit: dafd8b529ec4326dd04fcf4ad766b0856cb3cfcc
 workflow-type: tm+mt
 source-wordcount: '268'
-ht-degree: 1%
+ht-degree: 34%
 
 ---
 
@@ -21,10 +21,10 @@ ht-degree: 1%
 
 [!UICONTROL Journey Orchestration] はイベントをリッスンし、これらのイベントに基づいて、お客様の遍歴の中で最も良い次の行動を調整します。 イベントは、次の項目に関連付けることができます。
 
-* 個人の直接的なアクション（製品の購入、店舗の訪問、オンライン買い物かごの破棄など）、または
+* 個人の直接的なアクション（製品の購入、店頭への訪問、オンライン買い物かごの放棄など）、または
 * 個人に関連する何か（例えば、彼らが10,000個の忠誠度ポイントに到達した）
 
-[!UICONTROL Journey Orchestration] イベントは、 [!UICONTROL XDMエクスペリエンスイベントで] 、ストリーミング取り込みを介してAdobe Experience Platformに送信され ます。
+[!UICONTROL Journey Orchestration] イベントは、 [!UICONTROL XDMエクスペリエンスイベントで] 、ストリーミング取り込み経由でAdobe Experience Platformに送信され ます。
 
 >[!NOTE]
 >
@@ -35,10 +35,10 @@ ht-degree: 1%
 >* [ストリーミングデータ取り込み](https://docs.adobe.com/content/help/en/platform-learn/tutorials/data-ingestion/understanding-streaming-ingestion.html)
 >
 >
-このビデオで使用されている例を理解するには、次のAdobe Experience Platformサービスについても理解しておく必要があります。
+このビデオで使用されている例を理解するには、以下のAdobe Experience Platformサービスについても理解しておく必要があります。
 >
->* [Adobe Experience PlatformモバイルSDK — 起動](https://docs.adobe.com/content/help/en/core-services-learn/tutorials/launch-mobile/understanding-the-mobile-sdks.html)
->* [Adobe Experience Platformロケーションサービス](https://docs.adobe.com/content/help/en/places/using/home.html)
+>* [Adobe Experience Platform モバイル SDK - Launch](https://docs.adobe.com/content/help/en/core-services-learn/tutorials/launch-mobile/understanding-the-mobile-sdks.html)
+>* [Adobe Experience Platform Location Service](https://docs.adobe.com/content/help/ja-JP/places/using/home.html)
 
 
 ## ストリー [!UICONTROL ミングイベントの設定方法]
@@ -53,5 +53,5 @@ ht-degree: 1%
 
 ## その他のリソース
 
-* [Journey Orchestrationヘルプセンター](https://docs.adobe.com/content/help/en/journeys/using/journey-orchestration-home.html):
+* [Journey Orchestration ヘルプセンター](https://docs.adobe.com/content/help/ja-JP/journeys/using/journey-orchestration-home.html)
    * [イベントについて](https://docs.adobe.com/content/help/en/journeys/using/events-journeys/about-events.html)
