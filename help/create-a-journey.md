@@ -8,9 +8,9 @@ thumbnail: 29696.jpg
 audience: user
 doc-type: video
 activity: use
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 150119daaa767b925fdfbf6d277d2340e209f418
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '111'
 ht-degree: 100%
 
@@ -25,7 +25,7 @@ ht-degree: 100%
 * [!UICONTROL オーケストレーション]コントロールを使用したジャーニーのフローとタイミングの制御
 * アクションを使用したジャーニーの各ポイントでのエンゲージメント
 
->[!VIDEO](https://video.tv.adobe.com/v/29696?quality=12&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/29696?quality=12)
 
 ## その他のリソース
 
