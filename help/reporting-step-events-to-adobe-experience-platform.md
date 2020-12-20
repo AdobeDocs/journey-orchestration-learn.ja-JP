@@ -8,9 +8,9 @@ thumbnail: 36636.jpg
 audience: user
 doc-type: video
 activity: use
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 524e075e4ac49e3aedc10a1fa879dbab4fe5888e
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '114'
 ht-degree: 100%
 
@@ -22,7 +22,7 @@ ht-degree: 100%
 [!UICONTROL Journey Orchestration] は、他のデータと組み合わせて分析目的に利用できるように　[!UICONTROL Adobe Experience Platform] にジャーニーパフォーマンスのデータを自動送信します。
 次のビデオでは、[!UICONTROL ジャーニーステップのイベント]、[!UICONTROL Adobe Experience Platform] 上で自動的に作成される[!UICONTROL データステップ]とその参照方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/36636?quality=12&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/36636?quality=12)
 
 ## その他のリソース
 
