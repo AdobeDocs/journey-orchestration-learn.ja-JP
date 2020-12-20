@@ -19,12 +19,12 @@ ht-degree: 34%
 
 # ストリーミングイベントの設定
 
-[!UICONTROL Journey Orchestration] はイベントをリッスンし、これらのイベントに基づいて、お客様の遍歴の中で最も良い次の行動を調整します。 イベントは、次の項目に関連付けることができます。
+[!UICONTROL Jargeny ] Orchestrationはイベントをリッスンし、これらのイベントに基づいて、お客様の遍歴の中で最も良い次の行動を調整します。イベントは、次の項目に関連付けることができます。
 
 * 個人の直接的なアクション（製品の購入、店頭への訪問、オンライン買い物かごの放棄など）、または
 * 個人に関連する何か（例えば、彼らが10,000個の忠誠度ポイントに到達した）
 
-[!UICONTROL Journey Orchestration] イベントは、 [!UICONTROL XDMエクスペリエンスイベントで] 、ストリーミング取り込み経由でAdobe Experience Platformに送信され ます。
+[!UICONTROL Jeurney ] Orchestrationeventsは、 [!UICONTROL XDMエクスペリエンス] イベントで、ストリーミングインジェストを介してAdobe Experience Platformに送信され ます。
 
 >[!NOTE]
 >
@@ -41,12 +41,12 @@ ht-degree: 34%
 >* [Adobe Experience Platform Location Service](https://docs.adobe.com/content/help/ja-JP/places/using/home.html)
 
 
-## ストリー [!UICONTROL ミングイベントの設定方法]
+## [!UICONTROL ストリーミングイベント]の設定方法
 
 次のビデオでは、その方法を説明しています。
 
-* [!UICONTROL Journey Orchestration] イベント用のXDMスキーマとデータセットの設定
-* [!UICONTROL Journey Orchestrationでのイベントの定義]
+* [!UICONTROL Journey Orchestration]イベントのXDMスキーマとデータセットを設定
+* [!UICONTROL Journey Orchestration]でイベントを定義
 * イベントをストリーミングするソースシステムの設定
 
 >[!VIDEO](https://video.tv.adobe.com/v/29338?quality=12)
