@@ -12,22 +12,22 @@ translation-type: tm+mt
 source-git-commit: 150119daaa767b925fdfbf6d277d2340e209f418
 workflow-type: tm+mt
 source-wordcount: '140'
-ht-degree: 2%
+ht-degree: 11%
 
 ---
 
 
-# カス [!UICONTROL タムアクションの設定]
+# [!UICONTROL カスタムアクション]を構成
 
-[!UICONTROL アクション] は、個人に対してパーソナライズされたリアルタイムのエクスペリエンスを提供する、  Journey Orchestrationにおけるタッチポイントです。 これには、プッシュ通知、電子メール、SMSなど、従来のメッセージングチャネルや、ビジネスで使用するその他のデジタル関与手段が含まれます。
+ Actionsは、個々のユーザーに対してパーソナライズされたリアルタイムのエクスペリエンスを提供する、 [!UICONTROL Jureny ] Orchestrationのタッチポイントです。これには、プッシュ通知、電子メール、SMSなど、従来のメッセージングチャネルや、ビジネスで使用するその他のデジタル関与手段が含まれます。
 
-JSON形式のペイロードを含むREST APIを介して呼び出すことのできる、任意のプロバイダーからの任意のサービスを、 [!UICONTROL Journey Orchestrationで] Action [!UICONTROL として設定できます]。
+JSON形式のペイロードを持つREST APIを介して呼び出すことのできるプロバイダーからのすべてのサービスは、[!UICONTROL Journey Orchestration]の[!UICONTROL アクション]として設定できます。
 
-次のビデオでは、 [!UICONTROL Journey Orchestrationの] アクション  を設定する方法と、それを遍歴で使用する方法を説明します。
+次のビデオでは、[!UICONTROL Journey Orchestration]に対して[!UICONTROL アクション]を設定する方法と、それを遍歴で使用する方法を説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/29638?quality=12)
 
 ## その他のリソース
 
-* [Journey Orchestrationヘルプセンター](https://docs.adobe.com/content/help/en/journeys/using/journey-orchestration-home.html):
+* [Journey Orchestration ヘルプセンター](https://docs.adobe.com/content/help/ja-JP/journeys/using/journey-orchestration-home.html)
    * [アクションについて](https://docs.adobe.com/content/help/en/journeys/using/action-journeys/action.html)
