@@ -10,10 +10,10 @@ tutorials-url: https://docs.adobe.com/content/help/ja-JP/journey-orchestration-l
 getting-started-title: ヘルプセンター
 getting-started-url: https://docs.adobe.com/content/help/ja-JP/journeys/using/journey-orchestration-home.html
 translation-type: tm+mt
-source-git-commit: 8b8b26c5913717520e84aa9d5aa783c2c3434214
+source-git-commit: 2af08154744d0ae8b9107b2abf3fe2bdcae73ac5
 workflow-type: tm+mt
 source-wordcount: '97'
-ht-degree: 95%
+ht-degree: 92%
 
 ---
 
@@ -26,7 +26,7 @@ ht-degree: 95%
 + [セグメントの選定イベントの使用](/help/using-segment-qualification-events.md)
 + [データソースの設定](/help/configuring-journey-orchestration/configure-data-sources.md)
 + [アクションの設定](/help/configuring-journey-orchestration/configure-actions.md)
-+ ジャーニーの構築 {#building-a-journey}
++ ジャーニーの構築{#building-a-journey}
    + [ジャーニーの作成](/help/building-a-journey/creating-a-journey.md)
    + [別のジャーニーにジャンプ](/help/building-a-journey/jumping-to-another-journey.md)
 + [ジャーニーの検証と公開](/help/validate-and-publish-a-journey.md)
