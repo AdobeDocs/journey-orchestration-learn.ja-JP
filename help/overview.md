@@ -3,7 +3,7 @@ title: Journey Orchestration チュートリアル - 概要
 description: Journey Orchestration を使用すると、イベントやデータソースに保存されたコンテキストデータを活用して、リアルタイムオーケストレーションのユースケースを構築できます。
 products: Journey orchestration
 translation-type: tm+mt
-source-git-commit: 8b8b26c5913717520e84aa9d5aa783c2c3434214
+source-git-commit: c48c2e522fee95651f1a7b68cf17d6242c898242
 workflow-type: tm+mt
 source-wordcount: '205'
 ht-degree: 93%
@@ -40,11 +40,11 @@ ht-degree: 93%
     <p>
   </td>
   <td>
-    <a href="./create-a-journey.md">
+    <a href="./building-a-journey/creating-a-journey.md">
         <img alt="ジャーニーの作成（ビデオ）" src="./assets/journey34.png"/>
     </a>
     <div>
-      <a href="./create-a-journey.md">
+      <a href="./building-a-journey/creating-a-journey.md">
     <strong>ジャーニーの作成（ビデオ）</strong>
     </a>
     </div>
