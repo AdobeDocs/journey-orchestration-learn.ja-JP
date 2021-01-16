@@ -3,10 +3,10 @@ title: Journey Orchestration チュートリアル - 概要
 description: Journey Orchestration を使用すると、イベントやデータソースに保存されたコンテキストデータを活用して、リアルタイムオーケストレーションのユースケースを構築できます。
 products: Journey orchestration
 translation-type: tm+mt
-source-git-commit: 7ad1bc51bc8cf195759031056d45599c96388991
+source-git-commit: 8b8b26c5913717520e84aa9d5aa783c2c3434214
 workflow-type: tm+mt
-source-wordcount: '247'
-ht-degree: 100%
+source-wordcount: '205'
+ht-degree: 93%
 
 ---
 
@@ -17,14 +17,10 @@ ht-degree: 100%
 
 ## 新着情報
 
-* **[Adobe Experience Platform へのジャーニーステップイベントのレポート](/help/reporting-step-events-to-adobe-experience-platform.md)**
+* **[別のジャーニーにジャンプ](/help/building-a-journey/jumping-to-another-journey.md)**
 
    <br>
-   *ジャーニーステップのイベント、Adobe Experience Platform 上で自動的に作成されるデータステップとその参照方法について説明します。*
-* **[セグメントの選定イベントの使用](/help/using-segment-qualification-events.md)**
-
-   <br>
-   *このビデオでは、セグメントの選定イベントをエントリまたは離脱ポイントとするジャーニー作成の方法について簡単に説明します。*
+   *個人を別のジャーニーに移動させる方法を説明します。*
 
 ## スタッフのおすすめ
 
