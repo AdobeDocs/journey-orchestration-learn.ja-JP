@@ -9,7 +9,7 @@ audience: user, developer
 doc-type: video
 activity: understand
 translation-type: tm+mt
-source-git-commit: dafd8b529ec4326dd04fcf4ad766b0856cb3cfcc
+source-git-commit: 8b8b26c5913717520e84aa9d5aa783c2c3434214
 workflow-type: tm+mt
 source-wordcount: '342'
 ht-degree: 100%
@@ -47,7 +47,7 @@ ht-degree: 100%
 
 ## ジャーニーの作成、公開、分析方法
 
-1. [ジャーニーの作成](/help/create-a-journey.md)
+1. [ジャーニーの作成](/help/building-a-journey/creating-a-journey.md)
 1. [ジャーニーの検証と公開](/help/validate-and-publish-a-journey.md)
 1. [レポートツールを使用したジャーニーの分析](/help/analyze-a-journey-via-reporting-tools.md)
 
