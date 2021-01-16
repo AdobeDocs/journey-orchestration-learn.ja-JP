@@ -10,10 +10,10 @@ tutorials-url: https://docs.adobe.com/content/help/ja-JP/journey-orchestration-l
 getting-started-title: ヘルプセンター
 getting-started-url: https://docs.adobe.com/content/help/ja-JP/journeys/using/journey-orchestration-home.html
 translation-type: tm+mt
-source-git-commit: a8d066e15a4ab664b86a1bc8975b1b3f6414bf90
+source-git-commit: 8b8b26c5913717520e84aa9d5aa783c2c3434214
 workflow-type: tm+mt
-source-wordcount: '90'
-ht-degree: 100%
+source-wordcount: '97'
+ht-degree: 95%
 
 ---
 
@@ -26,7 +26,9 @@ ht-degree: 100%
 + [セグメントの選定イベントの使用](/help/using-segment-qualification-events.md)
 + [データソースの設定](/help/configuring-journey-orchestration/configure-data-sources.md)
 + [アクションの設定](/help/configuring-journey-orchestration/configure-actions.md)
-+ [ジャーニーの作成](/help/create-a-journey.md)
++ ジャーニーの構築 {#building-a-journey}
+   + [ジャーニーの作成](/help/building-a-journey/creating-a-journey.md)
+   + [別のジャーニーにジャンプ](/help/building-a-journey/jumping-to-another-journey.md)
 + [ジャーニーの検証と公開](/help/validate-and-publish-a-journey.md)
 + [レポートツールを使用したジャーニーの分析](/help/analyze-a-journey-via-reporting-tools.md)
 + [Adobe Experience Platform へのジャーニーステップイベントのレポート](/help/reporting-step-events-to-adobe-experience-platform.md)
