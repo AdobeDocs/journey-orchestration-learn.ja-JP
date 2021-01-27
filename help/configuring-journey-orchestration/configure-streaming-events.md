@@ -19,12 +19,12 @@ ht-degree: 34%
 
 # ストリーミングイベントの設定
 
-[!UICONTROL Jargeny ] Orchestrationはイベントをリッスンし、これらのイベントに基づいて、お客様の遍歴の中で最も良い次の行動を調整します。イベントは、次の項目に関連付けることができます。
+[!UICONTROL ジャーニー] 統合は、イベントをリッスンし、これらのイベントに基づいて、お客様のジャーニー内で最も良い次の行動を調整します。イベントは、次の項目に関連付けることができます。
 
 * 個人の直接的なアクション（製品の購入、店頭への訪問、オンライン買い物かごの放棄など）、または
 * 個人に関連する何か（例えば、彼らが10,000個の忠誠度ポイントに到達した）
 
-[!UICONTROL Jeurney ] Orchestrationeventsは、 [!UICONTROL XDMエクスペリエンス] イベントで、ストリーミングインジェストを介してAdobe Experience Platformに送信され ます。
+[!UICONTROL ジャーニー] Orchestrationeventsは、 [!UICONTROL XDMエクスペリエンス] イベントで、ストリーミングインジェストを介してAdobe Experience Platformに送信され ます。
 
 >[!NOTE]
 >
