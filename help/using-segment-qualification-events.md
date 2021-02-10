@@ -8,9 +8,9 @@ thumbnail: 37901.jpg
 audience: user, developer
 doc-type: video
 activity: use
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 524e075e4ac49e3aedc10a1fa879dbab4fe5888e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '139'
 ht-degree: 100%
 
@@ -28,7 +28,7 @@ ht-degree: 100%
 
 このビデオでは、セグメントを設定する場所およびジャーニーでセグメントの選定イベントを設定する方法について簡単に説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/37901?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/37901?quality=12&captions=jpn)
 
 ## その他のリソース
 
