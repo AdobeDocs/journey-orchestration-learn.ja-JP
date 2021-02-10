@@ -8,9 +8,9 @@ thumbnail: 29307.jpg
 audience: user, developer
 doc-type: video
 activity: understand
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 8b8b26c5913717520e84aa9d5aa783c2c3434214
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '342'
 ht-degree: 100%
 
@@ -31,7 +31,7 @@ ht-degree: 100%
 * Journey Orchestration で有効になるユースケースのタイプ
 * [!UICONTROL Journey Orchestration] の動作の主な要素
 
->[!VIDEO](https://video.tv.adobe.com/v/29307?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/29307?quality=12&captions=jpn)
 
 ## ジャーニーの設定方法
 
@@ -43,7 +43,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->これらの設定手順を実行するには、専門知識が必要です。[エクスペリエンスデータモデル（XDM）](https://docs.adobe.com/content/help/en/platform-learn/tutorials/schemas/understanding-the-xdm-system-and-experience-data-model.html)と [XDM エクスペリエンスイベントスキーマの作成方法](https://docs.adobe.com/content/help/en/platform-learn/tutorials/schemas/create-your-first-schema-with-out-of-the-box-components.html)を熟知している必要があります。
+>これらの設定手順を実行するには、専門知識が必要です。[エクスペリエンスデータモデル（XDM）](https://docs.adobe.com/content/help/ja-JP/platform-learn/tutorials/schemas/understanding-the-xdm-system-and-experience-data-model.html)と [XDM エクスペリエンスイベントスキーマの作成方法](https://docs.adobe.com/content/help/ja-JP/platform-learn/tutorials/schemas/create-your-first-schema-with-out-of-the-box-components.html)を熟知している必要があります。
 
 ## ジャーニーの作成、公開、分析方法
 
@@ -54,7 +54,7 @@ ht-degree: 100%
 ## その他のリソース
 
 * [Journey Orchestration ヘルプセンター](https://docs.adobe.com/content/help/ja-JP/journeys/using/journey-orchestration-home.html)
-* [Adobe Experience Platform チュートリアル](https://docs.adobe.com/content/help/en/platform-learn/tutorials/overview.html)
+* [Adobe Experience Platform チュートリアル](https://docs.adobe.com/content/help/ja-JP/platform-learn/tutorials/overview.html)
 * [Journey Orchestration に関するヘルプの参照方法](/help/understanding-journey-orchestration.md)
-* [Adobe Experience Platform モバイル SDK - Launch](https://docs.adobe.com/content/help/en/core-services-learn/tutorials/launch-mobile/understanding-the-mobile-sdks.html)
+* [Adobe Experience Platform モバイル SDK - Launch](https://docs.adobe.com/content/help/ja-JP/core-services-learn/tutorials/launch-mobile/understanding-the-mobile-sdks.html)
 * [Adobe Experience Platform Location Service](https://docs.adobe.com/content/help/ja-JP/places/using/home.html)
