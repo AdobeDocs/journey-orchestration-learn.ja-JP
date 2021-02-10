@@ -2,11 +2,11 @@
 title: Journey Orchestration チュートリアル - 概要
 description: Journey Orchestration を使用すると、イベントやデータソースに保存されたコンテキストデータを活用して、リアルタイムオーケストレーションのユースケースを構築できます。
 products: Journey orchestration
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: c48c2e522fee95651f1a7b68cf17d6242c898242
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '205'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 93%
 
 ## 新着情報
 
-* **[別のジャーニーにジャンプ](/help/building-a-journey/jumping-to-another-journey.md)**
+* **[別のジャーニーへのジャンプ](/help/building-a-journey/jumping-to-another-journey.md)**
 
    <br>
    *個人を別のジャーニーに移動させる方法を説明します。*
@@ -71,5 +71,5 @@ ht-degree: 93%
 ## その他のリソース
 
 * [Journey Orchestration ヘルプセンター](https://docs.adobe.com/content/help/ja-JP/journeys/using/journey-orchestration-home.html)
-* [Adobe Experience Platform チュートリアル](https://docs.adobe.com/content/help/en/platform-learn/tutorials/overview.html)
+* [Adobe Experience Platform チュートリアル](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=ja)
 
