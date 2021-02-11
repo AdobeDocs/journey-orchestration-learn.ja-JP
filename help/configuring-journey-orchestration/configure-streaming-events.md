@@ -30,8 +30,7 @@ ht-degree: 100%
 >
 >次の事項についての理解が必要です。
 >
->* [エクスペリエンスデータモデル（XDM）
->](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/understanding-the-xdm-system-and-experience-data-model.html?lang=ja#schemas)
+>* [エクスペリエンスデータモデル（XDM）](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/understanding-the-xdm-system-and-experience-data-model.html?lang=ja#schemas)
 >* [エクスペリエンスイベント用の XDM スキーマの作成方法](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/create-your-first-schema-with-out-of-the-box-components.html?lang=ja#schemas)
 >* [ストリーミングデータ取得](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-ingestion/understanding-streaming-ingestion.html?lang=ja#data-ingestion)
 >
