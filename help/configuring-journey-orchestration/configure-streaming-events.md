@@ -31,12 +31,11 @@ ht-degree: 100%
 >次の事項についての理解が必要です。
 >
 >* [エクスペリエンスデータモデル（XDM）
-](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/understanding-the-xdm-system-and-experience-data-model.html?lang=ja#schemas)
+>](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/understanding-the-xdm-system-and-experience-data-model.html?lang=ja#schemas)
 >* [エクスペリエンスイベント用の XDM スキーマの作成方法](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/create-your-first-schema-with-out-of-the-box-components.html?lang=ja#schemas)
 >* [ストリーミングデータ取得](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-ingestion/understanding-streaming-ingestion.html?lang=ja#data-ingestion)
 >
->
-このビデオで使用されている例を理解するには、以下の Adobe Experience Platform サービスについても理解しておく必要があります。
+>このビデオで使用されている例を理解するには、以下の Adobe Experience Platform サービスについても理解しておく必要があります。
 >
 >* [Adobe Experience Platform モバイル SDK - Launch](https://experienceleague.adobe.com/docs/mobile-sdk-learn/tutorials/fundamentals/understanding-the-mobile-sdks.html?lang=ja#fundamentals)
 >* [Adobe Experience Platform Location Service](https://docs.adobe.com/content/help/ja-JP/places/using/home.html)
