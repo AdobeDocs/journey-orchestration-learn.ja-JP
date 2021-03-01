@@ -8,10 +8,10 @@ thumbnail: 29307.jpg
 audience: user, developer
 doc-type: video
 activity: understand
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 8b8b26c5913717520e84aa9d5aa783c2c3434214
-workflow-type: ht
-source-wordcount: '342'
+workflow-type: tm+mt
+source-wordcount: '344'
 ht-degree: 100%
 
 ---
@@ -31,7 +31,7 @@ ht-degree: 100%
 * Journey Orchestration で有効になるユースケースのタイプ
 * [!UICONTROL Journey Orchestration] の動作の主な要素
 
->[!VIDEO](https://video.tv.adobe.com/v/29307?quality=12&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/29307?quality=12)
 
 ## ジャーニーの設定方法
 
