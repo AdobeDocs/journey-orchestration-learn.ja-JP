@@ -8,10 +8,10 @@ thumbnail: 29338.jpg
 audience: developer
 doc-type: video
 activity: setup
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: dafd8b529ec4326dd04fcf4ad766b0856cb3cfcc
-workflow-type: ht
-source-wordcount: '268'
+workflow-type: tm+mt
+source-wordcount: '270'
 ht-degree: 100%
 
 ---
@@ -30,11 +30,12 @@ ht-degree: 100%
 >
 >次の事項についての理解が必要です。
 >
->* [エクスペリエンスデータモデル（XDM）](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/understanding-the-xdm-system-and-experience-data-model.html?lang=ja#schemas)
+>* [エクスペリエンスデータモデル（XDM）](https://docs.adobe.com/content/help/ja-JP/platform-learn/tutorials/schemas/understanding-the-xdm-system-and-experience-data-model.html)
 >* [エクスペリエンスイベント用の XDM スキーマの作成方法](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/create-your-first-schema-with-out-of-the-box-components.html?lang=ja#schemas)
 >* [ストリーミングデータ取得](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-ingestion/understanding-streaming-ingestion.html?lang=ja#data-ingestion)
 >
->このビデオで使用されている例を理解するには、以下の Adobe Experience Platform サービスについても理解しておく必要があります。
+>
+このビデオで使用されている例を理解するには、以下の Adobe Experience Platform サービスについても理解しておく必要があります。
 >
 >* [Adobe Experience Platform モバイル SDK - Launch](https://experienceleague.adobe.com/docs/mobile-sdk-learn/tutorials/fundamentals/understanding-the-mobile-sdks.html?lang=ja#fundamentals)
 >* [Adobe Experience Platform Location Service](https://docs.adobe.com/content/help/ja-JP/places/using/home.html)
@@ -48,7 +49,7 @@ ht-degree: 100%
 * [!UICONTROL Journey Orchestration] でイベントを定義する
 * イベントをストリーミングするソースシステムを設定する
 
->[!VIDEO](https://video.tv.adobe.com/v/29338?quality=12&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/29338?quality=12)
 
 ## その他のリソース
 
