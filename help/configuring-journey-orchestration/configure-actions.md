@@ -1,18 +1,19 @@
 ---
 title: Adobe Journey Orchestration のアクションの設定
-description: このビデオでは、Journey Orchestration のアクションを設定する方法と、それをジャーニーで使用する方法を説明します。
-feature: Journey Orchestration
+description: Journey Orchestrationのアクションを設定する方法と、ジャーニーでのアクションの使用方法を説明します。
+feature: アクション
 topics: Custom Actions
 kt: 2775
 thumbnails: 29638.jpg
 audience: developer
 doc-type: video
 activity: setup
-translation-type: ht
-source-git-commit: 150119daaa767b925fdfbf6d277d2340e209f418
-workflow-type: ht
+role: 管理者
+translation-type: tm+mt
+source-git-commit: 490804cfcfef533d1028d12afa350d78efb56e36
+workflow-type: tm+mt
 source-wordcount: '140'
-ht-degree: 100%
+ht-degree: 87%
 
 ---
 
@@ -25,7 +26,7 @@ JSON 形式のペイロードで REST API を介して呼び出せるすべて�
 
 次のビデオでは、[!UICONTROL Journey Orchestration] に対して[!UICONTROL アクション]を設定する方法と、それをジャーニーで使用する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/29638?quality=12&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/29638?quality=12)
 
 ## その他のリソース
 
