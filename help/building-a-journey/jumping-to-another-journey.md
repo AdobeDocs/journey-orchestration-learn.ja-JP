@@ -1,7 +1,7 @@
 ---
 title: 別のジャーニーへのジャンプ
 description: '個人を別のジャーニーに移動させる方法を説明します。 '
-feature: Journey Orchestration
+feature: ジャーニー
 topics: activity
 kt: 6695
 thumbnail: 330560.jpg
@@ -9,11 +9,12 @@ audience: user
 doc-type: video
 activity: use
 team: PM
-translation-type: ht
-source-git-commit: 8b8b26c5913717520e84aa9d5aa783c2c3434214
-workflow-type: ht
-source-wordcount: '79'
-ht-degree: 100%
+role: 営業者、管理者
+translation-type: tm+mt
+source-git-commit: dcfca5cee7399c2e708d29dbc7dcdea1114805f5
+workflow-type: tm+mt
+source-wordcount: '83'
+ht-degree: 96%
 
 ---
 
@@ -27,7 +28,7 @@ ht-degree: 100%
 * 非常に複雑なジャーニーを複数のジャーニーに分けて設計を簡素化する
 * 一般的で再利用可能なジャーニーパターンに基づいてジャーニーを作成する
 
->[!VIDEO](https://video.tv.adobe.com/v/330560?quality=12&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/330560?quality=12)
 
 ## その他のリソース
 
