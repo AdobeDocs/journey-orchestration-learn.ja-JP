@@ -9,11 +9,12 @@ tutorials-title: チュートリアル
 tutorials-url: https://docs.adobe.com/content/help/ja-JP/journey-orchestration-learn/tutorials/overview.html
 getting-started-title: ヘルプセンター
 getting-started-url: https://docs.adobe.com/content/help/ja-JP/journeys/using/journey-orchestration-home.html
+level: 初心者
 translation-type: tm+mt
-source-git-commit: 2af08154744d0ae8b9107b2abf3fe2bdcae73ac5
+source-git-commit: 490804cfcfef533d1028d12afa350d78efb56e36
 workflow-type: tm+mt
-source-wordcount: '97'
-ht-degree: 100%
+source-wordcount: '98'
+ht-degree: 98%
 
 ---
 
