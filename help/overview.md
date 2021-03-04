@@ -2,11 +2,12 @@
 title: Journey Orchestration チュートリアル - 概要
 description: Journey Orchestration を使用すると、イベントやデータソースに保存されたコンテキストデータを活用して、リアルタイムオーケストレーションのユースケースを構築できます。
 products: Journey orchestration
-translation-type: ht
-source-git-commit: c48c2e522fee95651f1a7b68cf17d6242c898242
-workflow-type: ht
-source-wordcount: '205'
-ht-degree: 100%
+role: 営業者、管理者
+translation-type: tm+mt
+source-git-commit: dcfca5cee7399c2e708d29dbc7dcdea1114805f5
+workflow-type: tm+mt
+source-wordcount: '208'
+ht-degree: 98%
 
 ---
 
