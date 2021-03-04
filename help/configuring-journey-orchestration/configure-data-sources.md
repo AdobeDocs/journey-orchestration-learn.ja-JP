@@ -1,18 +1,19 @@
 ---
 title: Adobe Journey Orchestration のデータソースの設定
-description: Journey Orchestration を使用すると、Adobe Experience Platform や他のサードパーティシステムに接続して、追加情報を取得できます。このチュートリアルでは、Experience Platform データソースの設定、外部データソースの設定、ジャーニーでのデータの検索と使用の方法について説明します。
-feature: Journey Orchestration
+description: 「Experience Platformデータソースの設定、外部データソースの設定、ジャーニーでのデータの検索と使用の方法を学びます。」
+feature: データソース
 topics: Data Sources
 kt: 2774
 thumbnail: 29406.jpg
 audience: developer
 doc-type: video
 activity: setup
-translation-type: ht
-source-git-commit: 150119daaa767b925fdfbf6d277d2340e209f418
-workflow-type: ht
-source-wordcount: '165'
-ht-degree: 100%
+role: 管理者
+translation-type: tm+mt
+source-git-commit: 490804cfcfef533d1028d12afa350d78efb56e36
+workflow-type: tm+mt
+source-wordcount: '148'
+ht-degree: 85%
 
 ---
 
@@ -30,7 +31,7 @@ ht-degree: 100%
 
 次のビデオでは、Experience Platform データソースと外部データソースを設定する方法、およびジャーニー内のデータを検索して使用する方法を説明しています。
 
->[!VIDEO](https://video.tv.adobe.com/v/29406?quality=12&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/29406?quality=12)
 
 ## その他のリソース
 
