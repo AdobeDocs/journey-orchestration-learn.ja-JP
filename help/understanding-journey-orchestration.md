@@ -1,18 +1,19 @@
 ---
 title: Journey Orchestration について
-description: Journey Orchestration の概念、Journey Orchestration で有効になるユースケースのタイプ、Journey Orchestration の動作の主な要素を説明します。
-feature: Journey Orchestration
+description: 「Journey Orchestrationの概念、それが可能にする使用事例のタイプ、Journey Orchestrationの仕組みの主な要素を理解します。」
+feature: 概要
 topics: Introduction
 kt: 2773
 thumbnail: 29307.jpg
 audience: user, developer
 doc-type: video
 activity: understand
+role: 営業者、管理者
 translation-type: tm+mt
-source-git-commit: 8b8b26c5913717520e84aa9d5aa783c2c3434214
+source-git-commit: dcfca5cee7399c2e708d29dbc7dcdea1114805f5
 workflow-type: tm+mt
-source-wordcount: '344'
-ht-degree: 100%
+source-wordcount: '346'
+ht-degree: 92%
 
 ---
 
