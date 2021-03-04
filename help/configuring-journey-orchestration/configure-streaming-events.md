@@ -1,18 +1,19 @@
 ---
 title: Adobe Journey Orchestration 用のストリーミングイベントの設定
-description: このビデオでは、Journey Orchestration イベント用の XDM スキーマとデータセットの設定方法、Journey Orchestration でのイベントの定義方法、イベントをストリーミングするソースシステムの設定方法について説明します
-feature: Journey Orchestration
+description: 「Journey Orchestrationイベント用のXDMスキーマとデータセットの設定、Journey Orchestrationでのイベントの定義、イベントをストリーミングするためのソースシステムの設定方法を学びます」
+feature: データソース、イベント、スキーマ
 topics: Events
 kt: 3731
 thumbnail: 29338.jpg
 audience: developer
 doc-type: video
 activity: setup
+role: 管理者
 translation-type: tm+mt
-source-git-commit: dafd8b529ec4326dd04fcf4ad766b0856cb3cfcc
+source-git-commit: dcfca5cee7399c2e708d29dbc7dcdea1114805f5
 workflow-type: tm+mt
-source-wordcount: '270'
-ht-degree: 100%
+source-wordcount: '271'
+ht-degree: 89%
 
 ---
 
@@ -34,7 +35,8 @@ ht-degree: 100%
 >* [エクスペリエンスイベント用の XDM スキーマの作成方法](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/create-your-first-schema-with-out-of-the-box-components.html?lang=ja#schemas)
 >* [ストリーミングデータ取得](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-ingestion/understanding-streaming-ingestion.html?lang=ja#data-ingestion)
 >
->このビデオで使用されている例を理解するには、以下の Adobe Experience Platform サービスについても理解しておく必要があります。
+>
+このビデオで使用されている例を理解するには、以下の Adobe Experience Platform サービスについても理解しておく必要があります。
 >
 >* [Adobe Experience Platform モバイル SDK - Launch](https://experienceleague.adobe.com/docs/mobile-sdk-learn/tutorials/fundamentals/understanding-the-mobile-sdks.html?lang=ja#fundamentals)
 >* [Adobe Experience Platform Location Service](https://docs.adobe.com/content/help/ja-JP/places/using/home.html)
