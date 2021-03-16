@@ -4,10 +4,10 @@ description: Journey Orchestration を使用すると、イベントやデータ
 products: Journey orchestration
 role: 営業者、管理者
 translation-type: tm+mt
-source-git-commit: dcfca5cee7399c2e708d29dbc7dcdea1114805f5
+source-git-commit: 76bd217ff3b1ad635149ab1227b8eba3fc7afb87
 workflow-type: tm+mt
-source-wordcount: '208'
-ht-degree: 98%
+source-wordcount: '211'
+ht-degree: 97%
 
 ---
 
@@ -18,8 +18,8 @@ ht-degree: 98%
 
 ## 新着情報
 
+* **[プロファイルの更新操作](/help/building-a-journey/update-profile-action.md)**
 * **[別のジャーニーへのジャンプ](/help/building-a-journey/jumping-to-another-journey.md)**
-
    <br>
    *個人を別のジャーニーに移動させる方法を説明します。*
 
