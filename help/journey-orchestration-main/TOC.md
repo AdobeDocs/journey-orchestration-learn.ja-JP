@@ -11,10 +11,10 @@ getting-started-title: ヘルプセンター
 getting-started-url: https://docs.adobe.com/content/help/ja-JP/journeys/using/journey-orchestration-home.html
 level: 初心者
 translation-type: tm+mt
-source-git-commit: 490804cfcfef533d1028d12afa350d78efb56e36
+source-git-commit: 76bd217ff3b1ad635149ab1227b8eba3fc7afb87
 workflow-type: tm+mt
-source-wordcount: '98'
-ht-degree: 98%
+source-wordcount: '101'
+ht-degree: 96%
 
 ---
 
@@ -30,6 +30,7 @@ ht-degree: 98%
 + ジャーニーの構築{#building-a-journey}
    + [ジャーニーの作成](/help/building-a-journey/creating-a-journey.md)
    + [別のジャーニーへのジャンプ](/help/building-a-journey/jumping-to-another-journey.md)
+   + [プロファイルの更新操作](/help/building-a-journey/update-profile-action.md)
 + [ジャーニーの検証と公開](/help/validate-and-publish-a-journey.md)
 + [レポートツールを使用したジャーニーの分析](/help/analyze-a-journey-via-reporting-tools.md)
 + [Adobe Experience Platform へのジャーニーステップイベントのレポート](/help/reporting-step-events-to-adobe-experience-platform.md)
