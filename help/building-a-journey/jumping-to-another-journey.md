@@ -9,15 +9,15 @@ audience: user
 doc-type: video
 activity: use
 team: PM
-role: 営業者、管理者
-translation-type: tm+mt
-source-git-commit: dcfca5cee7399c2e708d29dbc7dcdea1114805f5
-workflow-type: tm+mt
+role: ビジネス従事者、管理者
+exl-id: 185c5c83-5444-4592-b113-732ee561f55a
+translation-type: ht
+source-git-commit: fbf90212287b8b4aeba7973827f7a1e1a9f04829
+workflow-type: ht
 source-wordcount: '83'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
-
 
 # 別のジャーニーへのジャンプ
 
@@ -33,4 +33,3 @@ ht-degree: 96%
 ## その他のリソース
 
 * [ジャーニー間での移動（製品ドキュメント）](https://experienceleague.adobe.com/docs/journeys/using/building-journeys/about-journey-building/action-activities/jump.html?lang=jp#building-journeys)
-
