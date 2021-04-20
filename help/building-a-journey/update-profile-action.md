@@ -1,10 +1,10 @@
 ---
 title: プロファイルアクションの更新
 description: イベント、データソースからの情報、または特定の値を使用する情報で、既存の Adobe Experience Platform プロファイルを更新する方法を説明します。
-feature: アクション
+feature: Actions
 kt: 7313
 thumbnail: 332112.jpg
-role: ビジネス従事者
+role: Business Practitioner
 activity: use
 team: PM
 exl-id: 5e45b702-2c99-49ad-ae00-65f7555acd09

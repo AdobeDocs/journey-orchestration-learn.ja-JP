@@ -1,14 +1,14 @@
 ---
 title: Adobe Journey Orchestration のアクションの設定
 description: Journey Orchestrationのアクションを設定する方法と、ジャーニーでのアクションの使用方法を説明します。
-feature: アクション
+feature: Actions
 topics: Custom Actions
 kt: 2775
 thumbnails: 29638.jpg
 audience: developer
 doc-type: video
 activity: setup
-role: 管理者
+role: Administrator
 translation-type: tm+mt
 source-git-commit: 490804cfcfef533d1028d12afa350d78efb56e36
 workflow-type: tm+mt

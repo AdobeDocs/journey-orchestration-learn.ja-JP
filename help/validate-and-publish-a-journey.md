@@ -1,14 +1,14 @@
 ---
 title: ジャーニーの検証と公開
 description: 「テストプロファイルを使用して、発行前にジャーニーをテストする方法を学びます。 」
-feature: ジャーニー
+feature: Journeys
 topics: Test and publish a journey
 kt: 2778
 thumbnail: 30066.jpg
 audience: user
 doc-type: video
 activity: use
-role: 営業者、管理者
+role: Business Practitioner, Administrator
 translation-type: tm+mt
 source-git-commit: dcfca5cee7399c2e708d29dbc7dcdea1114805f5
 workflow-type: tm+mt

@@ -1,14 +1,14 @@
 ---
 title: 'Adobe Experience Platform へのジャーニーステップイベントのレポート '
 description: ジャーニーステップのイベントとは何か、どのデータステップがどのようなものか、およびそれらを調べる方法を理解します。
-feature: ジャーニー
+feature: Journeys
 topics: Introduction
 kt: 5488
 thumbnail: 36636.jpg
 audience: user
 doc-type: video
 activity: use
-role: 営業者、管理者
+role: Business Practitioner, Administrator
 translation-type: tm+mt
 source-git-commit: dcfca5cee7399c2e708d29dbc7dcdea1114805f5
 workflow-type: tm+mt

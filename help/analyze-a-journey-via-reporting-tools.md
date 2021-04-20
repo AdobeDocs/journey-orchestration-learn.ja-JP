@@ -1,14 +1,14 @@
 ---
 title: レポートツールを使用したジャーニーの分析
 description: 「ジャーニーのレポートに移動する方法、レポートの日付範囲をカスタマイズする方法、将来使用するためにレポートテンプレートを保存する方法について説明します」
-feature: レポート
+feature: Reports
 topics: Introduction
 kt: 2777
 thumbnail: 29321.jpg
 audience: user
 doc-type: video
 activity: use
-role: ビジネス従事者、管理者
+role: Business Practitioner, Administrator
 exl-id: f6f13fba-d815-424f-86e5-918577609882
 translation-type: ht
 source-git-commit: fbf90212287b8b4aeba7973827f7a1e1a9f04829
