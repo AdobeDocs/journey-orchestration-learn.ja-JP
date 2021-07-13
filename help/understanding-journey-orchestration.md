@@ -1,18 +1,17 @@
 ---
 title: Journey Orchestration について
 description: 「Journey Orchestration の概念、Journey Orchestration によって実現する使用例のタイプ、Journey Orchestration がどのように機能するかに関する重要な要素を理解します」
-feature: Overview
+feature: 概要
 topics: Introduction
 kt: 2773
 thumbnail: 29307.jpg
 audience: user, developer
 doc-type: video
 activity: understand
-role: Business Practitioner, Administrator
-translation-type: ht
-source-git-commit: dcfca5cee7399c2e708d29dbc7dcdea1114805f5
-workflow-type: ht
-source-wordcount: '346'
+role: User, Admin
+source-git-commit: 6f3d3fcac73e5c770ae3171e2e14a22713f0d571
+workflow-type: tm+mt
+source-wordcount: '343'
 ht-degree: 100%
 
 ---
@@ -55,7 +54,7 @@ ht-degree: 100%
 ## その他のリソース
 
 * [Journey Orchestration ヘルプセンター](https://docs.adobe.com/content/help/ja-JP/journeys/using/journey-orchestration-home.html)
-* [Adobe Experience Platform チュートリアル](https://docs.adobe.com/content/help/ja-JP/platform-learn/tutorials/overview.html)
+* [Adobe Experience Platform のチュートリアル](https://docs.adobe.com/content/help/ja-JP/platform-learn/tutorials/overview.html)
 * [Journey Orchestration に関するヘルプの参照方法](/help/understanding-journey-orchestration.md)
 * [Adobe Experience Platform モバイル SDK - Launch](https://docs.adobe.com/content/help/ja-JP/core-services-learn/tutorials/launch-mobile/understanding-the-mobile-sdks.html)
 * [Adobe Experience Platform Location Service](https://docs.adobe.com/content/help/ja-JP/places/using/home.html)
