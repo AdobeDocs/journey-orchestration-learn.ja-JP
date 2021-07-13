@@ -1,26 +1,25 @@
 ---
 title: Adobe Journey Orchestration のアクションの設定
-description: Journey Orchestrationのアクションを設定する方法と、ジャーニーでのアクションの使用方法を説明します。
-feature: Actions
+description: アクションの設定方法と、Journey Orchestrationをジャーニーで使用する方法について説明します。
+feature: アクション
 topics: Custom Actions
 kt: 2775
 thumbnails: 29638.jpg
 audience: developer
 doc-type: video
 activity: setup
-role: Administrator
-translation-type: tm+mt
-source-git-commit: 490804cfcfef533d1028d12afa350d78efb56e36
+role: Admin
+exl-id: dd116572-a9f1-4608-b04d-e02c17df9587
+source-git-commit: 6f3d3fcac73e5c770ae3171e2e14a22713f0d571
 workflow-type: tm+mt
-source-wordcount: '140'
+source-wordcount: '139'
 ht-degree: 87%
 
 ---
 
-
 # [!UICONTROL カスタムアクション]を設定
 
-[!UICONTROL アクション]は、個人に対してパーソナライズされたリアルタイムのエクスペリエンスを提供する、[!UICONTROL Journey Orchestration] のタッチポイントです。これには、プッシュ通知、E メール、SMS など、従来のメッセージングチャネルや、ビジネスで使用するその他のデジタルエンゲージメント手段が含まれます。
+[!UICONTROL アクション]は、個人に対してパーソナライズされたリアルタイムのエクスペリエンスを提供する、[!UICONTROL Journey Orchestration] のタッチポイントです。これには、プッシュ通知、電子メール、SMS など、従来のメッセージングチャネルや、ビジネスで使用するその他のデジタルエンゲージメント手段が含まれます。
 
 JSON 形式のペイロードで REST API を介して呼び出せるすべてのプロバイダーのどのサービスも、[!UICONTROL Journey Orchestration] の[!UICONTROL アクション]として設定できます。
 
