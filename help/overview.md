@@ -2,12 +2,11 @@
 title: Journey Orchestration チュートリアル - 概要
 description: Journey Orchestration を使用すると、イベントやデータソースに保存されたコンテキストデータを活用して、リアルタイムオーケストレーションのユースケースを構築できます。
 products: Journey orchestration
-role: Business Practitioner, Administrator
+role: User, Admin
 exl-id: e82cde5a-d100-49d7-bea1-5b6d11c1193f
-translation-type: ht
-source-git-commit: fbf90212287b8b4aeba7973827f7a1e1a9f04829
-workflow-type: ht
-source-wordcount: '211'
+source-git-commit: 6f3d3fcac73e5c770ae3171e2e14a22713f0d571
+workflow-type: tm+mt
+source-wordcount: '208'
 ht-degree: 100%
 
 ---
@@ -16,9 +15,9 @@ ht-degree: 100%
 
 [!UICONTROL Journey Orchestration] は、Adobe Experience Platform と統合されたアプリケーションサービスです。これを使用すると、イベントやデータソースに保存されたコンテキストデータを活用して、リアルタイムオーケストレーションのユースケースを構築できます。
 
-## 新着情報
+## 最新情報
 
-* **[プロファイルアクションの更新](/help/building-a-journey/update-profile-action.md)**
+* **[「プロファイルの更新」アクション](/help/building-a-journey/update-profile-action.md)**
 * **[別のジャーニーへのジャンプ](/help/building-a-journey/jumping-to-another-journey.md)**
    <br>
    *個人を別のジャーニーに移動させる方法を説明します。*
@@ -37,7 +36,7 @@ ht-degree: 100%
     </a>
     </div>
     <p>
-    <em>Journey Orchestration の概念、Journey Orchestration で有効になるユースケースのタイプ、Journey Orchestration の動作の主な要素を説明します。</em>
+    <em>Journey Orchestration の概念、Journey Orchestration によって実現する使用例のタイプ、および Journey Orchestration の主な要素の仕組みを理解します。</em>
     <p>
   </td>
   <td>
@@ -72,4 +71,4 @@ ht-degree: 100%
 ## その他のリソース
 
 * [Journey Orchestration ヘルプセンター](https://docs.adobe.com/content/help/ja-JP/journeys/using/journey-orchestration-home.html)
-* [Adobe Experience Platform チュートリアル](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=ja)
+* [Adobe Experience Platform のチュートリアル](https://docs.adobe.com/content/help/ja-JP/platform-learn/tutorials/overview.html)
