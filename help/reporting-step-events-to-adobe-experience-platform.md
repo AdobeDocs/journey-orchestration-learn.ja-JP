@@ -1,22 +1,21 @@
 ---
 title: 'Adobe Experience Platform へのジャーニーステップイベントのレポート '
-description: ジャーニーステップのイベントとは何か、どのデータステップがどのようなものか、およびそれらを調べる方法を理解します。
-feature: Journeys
+description: ジャーニーステップのイベント、データステップの概要と参照方法を説明します。
+feature: ジャーニー
 topics: Introduction
 kt: 5488
 thumbnail: 36636.jpg
 audience: user
 doc-type: video
 activity: use
-role: Business Practitioner, Administrator
-translation-type: tm+mt
-source-git-commit: dcfca5cee7399c2e708d29dbc7dcdea1114805f5
+role: User, Admin
+exl-id: 1ce7909e-173b-46f4-b20c-e6b5bfcb9d2c
+source-git-commit: 6f3d3fcac73e5c770ae3171e2e14a22713f0d571
 workflow-type: tm+mt
-source-wordcount: '110'
-ht-degree: 82%
+source-wordcount: '107'
+ht-degree: 85%
 
 ---
-
 
 # [!UICONTROL Adobe Experience Platform] へのステップイベントのレポート
 
@@ -28,4 +27,4 @@ ht-degree: 82%
 ## その他のリソース
 
 * [Journey Orchestration ヘルプセンター](https://docs.adobe.com/content/help/ja-JP/journeys/using/journey-orchestration-home.html)
-* [ジャーニーステップの共有の概要](https://docs.adobe.com/content/help/ja-JP/journeys/using/building-journeys/sharing-journey-steps/sharing-overview.html)
+* [ジャーニーステップ共有の概要](https://docs.adobe.com/content/help/ja-JP/journeys/using/building-journeys/sharing-journey-steps/sharing-overview.html)
