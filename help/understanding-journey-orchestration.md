@@ -1,7 +1,7 @@
 ---
 title: Journey Orchestration について
 description: 「Journey Orchestration の概念、Journey Orchestration によって実現する使用例のタイプ、Journey Orchestration がどのように機能するかに関する重要な要素を理解します」
-feature: 概要
+feature: Overview
 topics: Introduction
 kt: 2773
 thumbnail: 29307.jpg
@@ -9,10 +9,10 @@ audience: user, developer
 doc-type: video
 activity: understand
 role: User, Admin
-source-git-commit: 6f3d3fcac73e5c770ae3171e2e14a22713f0d571
+source-git-commit: a549754dd3fbffb7b45a7d66db6778bceb13ef7d
 workflow-type: tm+mt
-source-wordcount: '343'
-ht-degree: 100%
+source-wordcount: '340'
+ht-degree: 66%
 
 ---
 
@@ -21,9 +21,9 @@ ht-degree: 100%
 
 ## [!UICONTROL Journey Orchestration の概要]
 
-[!UICONTROL Journey Orchestration]：イベントやデータソースに保存されたコンテキストデータを活用して、リアルタイムオーケストレーションのユースケースを構築できます。
+[!UICONTROL ジャーニー] オーケストレーションを使用すると、イベントやデータソースに保存されたコンテキストデータを使用して、リアルタイムオーケストレーションの使用例を構築できます。
 
-[!UICONTROL Journey Orchestration] は、Adobe Experience Platform と統合されたアプリケーションサービスです。インテリジェントでオープンなエコシステムを提供し、マーケティングから業務さらにサービスに至るまで、ビジネスに必要なあらゆるチャネルにわたって、拡張性の高いイベントベースのエンゲージメントを通じて、関連するすべてのライブデータを有効化します。[!UICONTROL Journey Orchestration] では、Adobe Experience Platform や外部配信システムから得られるあらゆるデータを活用して、説得力のあるエクスペリエンスを作成し提供できます。
+[!UICONTROL Journey Orchestration] は、Adobe Experience Platform と統合されたアプリケーションサービスです。インテリジェントでオープンなエコシステムを提供し、マーケティングから業務さらにサービスに至るまで、ビジネスに必要なあらゆるチャネルにわたって、拡張性の高いイベントベースのエンゲージメントを通じて、関連するすべてのライブデータを有効化します。[!UICONTROL ジャーニー] オーケストレーションでは、Adobe Experience Platformや外部配信システムの任意のデータを使用して、説得力のあるエクスペリエンスを作成し提供できます。
 
 以下のビデオの内容は次のとおりです。
 
@@ -38,12 +38,12 @@ ht-degree: 100%
 ジャーニー構築の準備の主な手順は次のとおりです。
 
 1. [ストリーミングイベントの設定](/help/configuring-journey-orchestration/configure-streaming-events.md) - [!UICONTROL Journey Orchestration] はイベントをリッスンするように設計されているので、この設定は必須です。
-1. [データソースの設定](/help/configuring-journey-orchestration/configure-data-sources.md) - ジャーニーがイベントペイロードから得られるローカルデータのみを利用する場合は、この設定は必要ありません。
+1. [データソースの設定](/help/configuring-journey-orchestration/configure-data-sources.md)  — ジャーニーがイベントペイロードから取得されるローカルデータのみを使用する場合は、この設定は不要です。
 1. [カスタムアクションの設定](/help/configuring-journey-orchestration/configure-actions.md) - JSON 形式のペイロードを使用して [!DNL REST API] で呼び出すことができるサードパーティプロバイダーのサービスを使用する場合は必須です。
 
 >[!NOTE]
 >
->これらの設定手順を実行するには、専門知識が必要です。[エクスペリエンスデータモデル（XDM）](https://docs.adobe.com/content/help/ja-JP/platform-learn/tutorials/schemas/understanding-the-xdm-system-and-experience-data-model.html)と [XDM エクスペリエンスイベントスキーマの作成方法](https://docs.adobe.com/content/help/ja-JP/platform-learn/tutorials/schemas/create-your-first-schema-with-out-of-the-box-components.html)を熟知している必要があります。
+>これらの設定手順を実行するには、専門知識が必要です。[エクスペリエンスデータモデル(XDM)](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/schemas-and-experience-data-model.html?lang=en)と[XDMエクスペリエンスイベントスキーマ](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/create-schemas.html?lang=en)の作成方法を熟知している必要があります。
 
 ## ジャーニーの作成、公開、分析方法
 
@@ -53,8 +53,8 @@ ht-degree: 100%
 
 ## その他のリソース
 
-* [Journey Orchestration ヘルプセンター](https://docs.adobe.com/content/help/ja-JP/journeys/using/journey-orchestration-home.html)
-* [Adobe Experience Platform のチュートリアル](https://docs.adobe.com/content/help/ja-JP/platform-learn/tutorials/overview.html)
+* [Journey Orchestration ヘルプセンター](https://experienceleague.adobe.com/docs/journeys/using/journey-orchestration-home.html?lang=ja)
+* [Adobe Experience Platform のチュートリアル](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=en)
 * [Journey Orchestration に関するヘルプの参照方法](/help/understanding-journey-orchestration.md)
-* [Adobe Experience Platform モバイル SDK - Launch](https://docs.adobe.com/content/help/ja-JP/core-services-learn/tutorials/launch-mobile/understanding-the-mobile-sdks.html)
-* [Adobe Experience Platform Location Service](https://docs.adobe.com/content/help/ja-JP/places/using/home.html)
+* [Adobe Experience Platform モバイル SDK - Launch](https://experienceleague.adobe.com/docs/mobile-sdk-learn/tutorials/fundamentals/understanding-the-mobile-sdks.html?lang=en)
+* [Adobe Experience Platform Location Service](https://experienceleague.adobe.com/docs/places/using/home.html?lang=ja)

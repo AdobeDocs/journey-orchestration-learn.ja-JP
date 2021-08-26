@@ -1,7 +1,7 @@
 ---
 title: レポートツールを使用したジャーニーの分析
 description: 「ジャーニーのレポートに移動する方法、レポートの日付範囲をカスタマイズする方法、将来使用するためにレポートテンプレートを保存する方法について説明します」
-feature: レポート
+feature: Reports
 topics: Introduction
 kt: 2777
 thumbnail: 29321.jpg
@@ -10,10 +10,10 @@ doc-type: video
 activity: use
 role: User, Admin
 exl-id: f6f13fba-d815-424f-86e5-918577609882
-source-git-commit: 6f3d3fcac73e5c770ae3171e2e14a22713f0d571
+source-git-commit: a549754dd3fbffb7b45a7d66db6778bceb13ef7d
 workflow-type: tm+mt
-source-wordcount: '93'
-ht-degree: 100%
+source-wordcount: '92'
+ht-degree: 90%
 
 ---
 
@@ -29,5 +29,5 @@ ht-degree: 100%
 
 ## その他のリソース
 
-* [Journey Orchestration ヘルプセンター](https://docs.adobe.com/content/help/ja-JP/journeys/using/journey-orchestration-home.html)
-* [Journey Orchestration レポートについて](https://docs.adobe.com/content/help/ja-JP/journeys/using/journey-reports/about-journey-reports.html)
+* [Journey Orchestration ヘルプセンター](https://experienceleague.adobe.com/docs/journeys/using/journey-orchestration-home.html?lang=ja)
+* [Journey Orchestration レポートについて](https://experienceleague.adobe.com/docs/journeys/using/journey-reports/about-journey-reports.html?lang=en)

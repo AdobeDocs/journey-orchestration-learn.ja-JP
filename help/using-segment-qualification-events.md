@@ -1,7 +1,7 @@
 ---
 title: セグメントの選定イベントの使用
 description: セグメントを設定する場所と、ジャーニーでセグメントの選定イベントを設定する方法について説明します。
-feature: セグメント、イベント
+feature: Segments, Events
 topics: Events
 kt: 5485
 thumbnail: 37901.jpg
@@ -10,16 +10,16 @@ doc-type: video
 activity: use
 role: User, Admin
 exl-id: fc950a20-1543-4eb7-9ca0-2148216a2afc
-source-git-commit: 6f3d3fcac73e5c770ae3171e2e14a22713f0d571
+source-git-commit: a549754dd3fbffb7b45a7d66db6778bceb13ef7d
 workflow-type: tm+mt
-source-wordcount: '134'
-ht-degree: 86%
+source-wordcount: '135'
+ht-degree: 61%
 
 ---
 
 # セグメントの選定イベントの使用
 
-セグメントの選定イベントを使用すると、ジャーニーは Adobe Experience Platform セグメントでプロファイルのエントリと離脱をリッスンして、ユーザーをジャーニーにエントリしたりその先に進ませたりできます。
+セグメントの選定イベントを使用すると、ジャーニーは、Adobe Experience Platformセグメント内のプロファイルのエントリと離脱をリッスンできます。 このイベントタイプは、個人がジャーニーにエントリしたり、ジャーニーを進んだりするために使用します。
 
 以下のようなユースケースがあります。
 

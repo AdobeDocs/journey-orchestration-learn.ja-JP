@@ -1,19 +1,19 @@
 ---
 title: Journey Orchestration チュートリアル - 概要
-description: Journey Orchestration を使用すると、イベントやデータソースに保存されたコンテキストデータを活用して、リアルタイムオーケストレーションのユースケースを構築できます。
+description: Journey Orchestrationを使用すると、イベントやデータソースに保存されたコンテキストデータを使用して、リアルタイムオーケストレーションのユースケースを構築できます
 products: Journey orchestration
 role: User, Admin
 exl-id: e82cde5a-d100-49d7-bea1-5b6d11c1193f
-source-git-commit: 6f3d3fcac73e5c770ae3171e2e14a22713f0d571
+source-git-commit: a549754dd3fbffb7b45a7d66db6778bceb13ef7d
 workflow-type: tm+mt
-source-wordcount: '208'
-ht-degree: 100%
+source-wordcount: '207'
+ht-degree: 63%
 
 ---
 
 # 概要
 
-[!UICONTROL Journey Orchestration] は、Adobe Experience Platform と統合されたアプリケーションサービスです。これを使用すると、イベントやデータソースに保存されたコンテキストデータを活用して、リアルタイムオーケストレーションのユースケースを構築できます。
+[!UICONTROL Journey Orchestration] は、Adobe Experience Platform と統合されたアプリケーションサービスです。イベントやデータソースに保存されたコンテキストデータを使用して、リアルタイムオーケストレーションのユースケースを構築できます。
 
 ## 最新情報
 
@@ -49,7 +49,7 @@ ht-degree: 100%
     </a>
     </div>
     <p>
-    <em>新しいジャーニーの作成とイベントでの開始、オーケストレーションを使用したジャーニーのフローとタイミングの制御、アクションを使用したジャーニーの各ポイントでのエンゲージメントの方法について説明します。</em>
+    <em>ジャーニーの作成、イベントでの開始、オーケストレーションを使用したジャーニーのフローとタイミングの制御、アクションを使用したジャーニーの各ポイントでのエンゲージメントの方法について説明します。</em>
     <p>
   </td>
   <td>
@@ -70,5 +70,5 @@ ht-degree: 100%
 
 ## その他のリソース
 
-* [Journey Orchestration ヘルプセンター](https://docs.adobe.com/content/help/ja-JP/journeys/using/journey-orchestration-home.html)
-* [Adobe Experience Platform のチュートリアル](https://docs.adobe.com/content/help/ja-JP/platform-learn/tutorials/overview.html)
+* [Journey Orchestration ヘルプセンター](https://experienceleague.adobe.com/docs/journeys/using/journey-orchestration-home.html?lang=ja)
+* [Adobe Experience Platform のチュートリアル](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=en)
