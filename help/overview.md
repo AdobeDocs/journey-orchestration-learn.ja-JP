@@ -1,26 +1,26 @@
 ---
 title: Journey Orchestration チュートリアル - 概要
-description: Journey Orchestrationを使用すると、イベントやデータソースに保存されたコンテキストデータを使用して、リアルタイムオーケストレーションのユースケースを構築できます
+description: Journey Orchestration を利用すると、イベントやデータソースに格納されているコンテキストデータを使用して、リアルタイムオーケストレーションのユースケースを実現できます。
 products: Journey orchestration
 role: User, Admin
 exl-id: e82cde5a-d100-49d7-bea1-5b6d11c1193f
 source-git-commit: a549754dd3fbffb7b45a7d66db6778bceb13ef7d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '207'
-ht-degree: 63%
+ht-degree: 100%
 
 ---
 
 # 概要
 
-[!UICONTROL Journey Orchestration] は、Adobe Experience Platform と統合されたアプリケーションサービスです。イベントやデータソースに保存されたコンテキストデータを使用して、リアルタイムオーケストレーションのユースケースを構築できます。
+[!UICONTROL Journey Orchestration] は、Adobe Experience Platform と統合されたアプリケーションサービスです。これを利用すると、イベントやデータソースに格納されているコンテキストデータを使用して、リアルタイムオーケストレーションのユースケースを実現できます。
 
 ## 最新情報
 
-* **[「プロファイルの更新」アクション](/help/building-a-journey/update-profile-action.md)**
+* **[「プロファイルを更新」アクション](/help/building-a-journey/update-profile-action.md)**
 * **[別のジャーニーへのジャンプ](/help/building-a-journey/jumping-to-another-journey.md)**
    <br>
-   *個人を別のジャーニーに移動させる方法を説明します。*
+   *個人をあるジャーニーから別のジャーニーに移動させる方法を説明します。*
 
 ## スタッフのおすすめ
 
@@ -36,7 +36,7 @@ ht-degree: 63%
     </a>
     </div>
     <p>
-    <em>Journey Orchestration の概念、Journey Orchestration によって実現する使用例のタイプ、および Journey Orchestration の主な要素の仕組みを理解します。</em>
+    <em>Journey Orchestration の概念、Journey Orchestration によって実現できるユースケースのタイプおよび Journey Orchestration の主な要素の仕組みを理解します。</em>
     <p>
   </td>
   <td>
@@ -49,7 +49,7 @@ ht-degree: 63%
     </a>
     </div>
     <p>
-    <em>ジャーニーの作成、イベントでの開始、オーケストレーションを使用したジャーニーのフローとタイミングの制御、アクションを使用したジャーニーの各ポイントでのエンゲージメントの方法について説明します。</em>
+    <em>ジャーニーの作成方法、イベントの開始方法、オーケストレーションを使用したジャーニーのフローとタイミングの制御方法、ジャーニーの各ポイントでのアクションを使用したエンゲージメント方法について説明します。</em>
     <p>
   </td>
   <td>
@@ -71,4 +71,4 @@ ht-degree: 63%
 ## その他のリソース
 
 * [Journey Orchestration ヘルプセンター](https://experienceleague.adobe.com/docs/journeys/using/journey-orchestration-home.html?lang=ja)
-* [Adobe Experience Platform のチュートリアル](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=en)
+* [Adobe Experience Platform のチュートリアル](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=ja)
