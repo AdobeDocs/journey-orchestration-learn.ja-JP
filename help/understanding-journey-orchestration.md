@@ -10,9 +10,9 @@ doc-type: video
 activity: understand
 role: User, Admin
 source-git-commit: a549754dd3fbffb7b45a7d66db6778bceb13ef7d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '340'
-ht-degree: 66%
+ht-degree: 100%
 
 ---
 
@@ -21,9 +21,9 @@ ht-degree: 66%
 
 ## [!UICONTROL Journey Orchestration の概要]
 
-[!UICONTROL ジャーニー] オーケストレーションを使用すると、イベントやデータソースに保存されたコンテキストデータを使用して、リアルタイムオーケストレーションの使用例を構築できます。
+[!UICONTROL Journey Orchestration] を利用すると、イベントやデータソースに格納されているコンテキストデータを使用して、リアルタイムオーケストレーションのユースケースを実現することができます。
 
-[!UICONTROL Journey Orchestration] は、Adobe Experience Platform と統合されたアプリケーションサービスです。インテリジェントでオープンなエコシステムを提供し、マーケティングから業務さらにサービスに至るまで、ビジネスに必要なあらゆるチャネルにわたって、拡張性の高いイベントベースのエンゲージメントを通じて、関連するすべてのライブデータを有効化します。[!UICONTROL ジャーニー] オーケストレーションでは、Adobe Experience Platformや外部配信システムの任意のデータを使用して、説得力のあるエクスペリエンスを作成し提供できます。
+[!UICONTROL Journey Orchestration] は、Adobe Experience Platform と統合されたアプリケーションサービスです。インテリジェントでオープンなエコシステムを提供し、マーケティングから業務さらにサービスに至るまで、ビジネスに必要なあらゆるチャネルにわたって、拡張性の高いイベントベースのエンゲージメントを通じて、関連するすべてのライブデータを有効化します。[!UICONTROL Journey Orchestration] では、Adobe Experience Platform や外部配信システムの任意のデータを使用して、魅力的なエクスペリエンスを作成および配信できます。
 
 以下のビデオの内容は次のとおりです。
 
@@ -38,12 +38,12 @@ ht-degree: 66%
 ジャーニー構築の準備の主な手順は次のとおりです。
 
 1. [ストリーミングイベントの設定](/help/configuring-journey-orchestration/configure-streaming-events.md) - [!UICONTROL Journey Orchestration] はイベントをリッスンするように設計されているので、この設定は必須です。
-1. [データソースの設定](/help/configuring-journey-orchestration/configure-data-sources.md)  — ジャーニーがイベントペイロードから取得されるローカルデータのみを使用する場合は、この設定は不要です。
+1. [データソースの設定](/help/configuring-journey-orchestration/configure-data-sources.md) - ジャーニーでイベントペイロードからのローカルデータのみを使用する場合、この設定は必要ありません。
 1. [カスタムアクションの設定](/help/configuring-journey-orchestration/configure-actions.md) - JSON 形式のペイロードを使用して [!DNL REST API] で呼び出すことができるサードパーティプロバイダーのサービスを使用する場合は必須です。
 
 >[!NOTE]
 >
->これらの設定手順を実行するには、専門知識が必要です。[エクスペリエンスデータモデル(XDM)](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/schemas-and-experience-data-model.html?lang=en)と[XDMエクスペリエンスイベントスキーマ](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/create-schemas.html?lang=en)の作成方法を熟知している必要があります。
+>これらの設定手順を実行するには、専門知識が必要です。[エクスペリエンスデータモデル（XDM）](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/schemas-and-experience-data-model.html?lang=ja)についてと [XDM エクスペリエンスイベントスキーマの作成方法](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/create-schemas.html?lang=ja)を熟知している必要があります。
 
 ## ジャーニーの作成、公開、分析方法
 
@@ -54,7 +54,7 @@ ht-degree: 66%
 ## その他のリソース
 
 * [Journey Orchestration ヘルプセンター](https://experienceleague.adobe.com/docs/journeys/using/journey-orchestration-home.html?lang=ja)
-* [Adobe Experience Platform のチュートリアル](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=en)
+* [Adobe Experience Platform チュートリアル](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=ja)
 * [Journey Orchestration に関するヘルプの参照方法](/help/understanding-journey-orchestration.md)
-* [Adobe Experience Platform モバイル SDK - Launch](https://experienceleague.adobe.com/docs/mobile-sdk-learn/tutorials/fundamentals/understanding-the-mobile-sdks.html?lang=en)
+* [Adobe Experience Platform モバイル SDK - Launch](https://experienceleague.adobe.com/docs/mobile-sdk-learn/tutorials/fundamentals/understanding-the-mobile-sdks.html?lang=ja)
 * [Adobe Experience Platform Location Service](https://experienceleague.adobe.com/docs/places/using/home.html?lang=ja)
