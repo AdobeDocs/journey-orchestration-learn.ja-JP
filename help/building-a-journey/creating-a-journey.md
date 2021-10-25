@@ -1,7 +1,7 @@
 ---
 title: Adobe Journey Orchestration を使用したジャーニーの作成
 description: 「新しいジャーニーの作成、イベントの使用開始、オーケストレーションコントロールを使用したジャーニーのフローとタイミングの制御、アクションを使用したジャーニーの各ポイントへの関与について説明します」
-feature: ジャーニー
+feature: Journeys
 topics: Create a journey
 kt: 2789
 thumbnail: 29696.jpg
@@ -11,8 +11,8 @@ activity: use
 role: User, Admin
 exl-id: ec61db2f-7a0f-4161-af03-c3f2fe122e4d
 source-git-commit: 6f3d3fcac73e5c770ae3171e2e14a22713f0d571
-workflow-type: tm+mt
-source-wordcount: '108'
+workflow-type: ht
+source-wordcount: '107'
 ht-degree: 100%
 
 ---
@@ -29,5 +29,5 @@ ht-degree: 100%
 
 ## その他のリソース
 
-* [Journey Orchestration ヘルプセンター](https://docs.adobe.com/content/help/ja-JP/journeys/using/journey-orchestration-home.html)
+* [Journey Orchestration ヘルプセンター](https://docs.adobe.com/content/help/ja/journeys/using/journey-orchestration-home.html)
    * [ジャーニーの作成](https://docs.adobe.com/content/help/ja-JP/journeys/using/building-journeys/about-journey-building/journey.html)
