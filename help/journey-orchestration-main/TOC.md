@@ -5,15 +5,14 @@ user-guide-description: ジャーニーの設定、作成、公開、および�
 user-guide-url: https://docs.adobe.com/content/help/en/journey-orchestration-learn/tutorials/overview.html
 solution-title: Experience League
 solution-hub-url: https://experienceleague.adobe.com/?tag=Journey+Orchestration#recommended/solutions/journey-orchestration
-tutorials-title: チュートリアル
-tutorials-url: https://docs.adobe.com/content/help/ja-JP/journey-orchestration-learn/tutorials/overview.html
-getting-started-title: ヘルプセンター
-getting-started-url: https://docs.adobe.com/content/help/ja-JP/journeys/using/journey-orchestration-home.html
+tutorials-title: Tutorials
+tutorials-url: https://docs.adobe.com/content/help/en/journey-orchestration-learn/tutorials/overview.html
+getting-started-title: Help Center
+getting-started-url: https://docs.adobe.com/content/help/en/journeys/using/journey-orchestration-home.html
 level: Beginner
-translation-type: ht
 source-git-commit: 76bd217ff3b1ad635149ab1227b8eba3fc7afb87
-workflow-type: ht
-source-wordcount: '101'
+workflow-type: tm+mt
+source-wordcount: '71'
 ht-degree: 100%
 
 ---
@@ -30,7 +29,7 @@ ht-degree: 100%
 + ジャーニーの構築{#building-a-journey}
    + [ジャーニーの作成](/help/building-a-journey/creating-a-journey.md)
    + [別のジャーニーへのジャンプ](/help/building-a-journey/jumping-to-another-journey.md)
-   + [プロファイルアクションの更新](/help/building-a-journey/update-profile-action.md)
+   + [「プロファイルの更新」アクション](/help/building-a-journey/update-profile-action.md)
 + [ジャーニーの検証と公開](/help/validate-and-publish-a-journey.md)
 + [レポートツールを使用したジャーニーの分析](/help/analyze-a-journey-via-reporting-tools.md)
 + [Adobe Experience Platform へのジャーニーステップイベントのレポート](/help/reporting-step-events-to-adobe-experience-platform.md)

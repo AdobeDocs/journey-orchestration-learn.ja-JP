@@ -1,6 +1,6 @@
 ---
 title: 'Adobe Experience Platform へのジャーニーステップイベントのレポート '
-description: ジャーニーステップのイベント、データステップの概要と参照方法を説明します。
+description: ジャーニーステップのイベント、データステップの概要、および参照方法について説明します。
 feature: Journeys
 topics: Introduction
 kt: 5488
@@ -20,7 +20,7 @@ ht-degree: 55%
 # [!UICONTROL Adobe Experience Platform] へのステップイベントのレポート
 
 [!UICONTROL Journey Orchestration] は、他のデータと組み合わせて分析目的に利用できるように　[!UICONTROL Adobe Experience Platform] にジャーニーパフォーマンスのデータを自動送信します。
-次のビデオでは、[!UICONTROL ジャーニーステップExperience Platform]とは何か、および[!UICONTROL イベント]上で自動的に作成される[!UICONTROL データステップ]を説明します。
+次のビデオでは、 [!UICONTROL ジャーニーステップイベント] そして [!UICONTROL データ手順] が自動的に作成される日時： [!UICONTROL Experience Platform].
 
 >[!VIDEO](https://video.tv.adobe.com/v/36636?quality=12)
 
