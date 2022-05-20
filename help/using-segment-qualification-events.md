@@ -10,10 +10,10 @@ doc-type: video
 activity: use
 role: User, Admin
 exl-id: fc950a20-1543-4eb7-9ca0-2148216a2afc
-source-git-commit: a549754dd3fbffb7b45a7d66db6778bceb13ef7d
+source-git-commit: 19c80da551ace9a92ad4c21e8427c23abfd05163
 workflow-type: tm+mt
-source-wordcount: '135'
-ht-degree: 61%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -24,14 +24,11 @@ ht-degree: 61%
 以下のようなユースケースがあります。
 
 * モバイルサービスの顧客がデータ制限を超えた際にジャーニーがトリガーされる
-* 顧客が新しいロイヤリティセグメントに到達したり、ロイヤリティセグメントから離脱した場合
+* 顧客が新しいロイヤルティセグメントに到達したり、ロイヤルティセグメントから離脱した場合
+
 
 このビデオでは、セグメントを設定する場所およびジャーニーでセグメントの選定イベントを設定する方法について簡単に説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/37901?quality=12)
 
-## その他のリソース
-
-ドキュメント：
-
-* [セグメントの選定イベント](https://docs.adobe.com/content/help/ja-JP/journeys/using/building-journeys/about-journey-building/events-activities/segment-qualification-events.html)
+詳しくは、 [セグメントの選定イベント](https://experienceleague.adobe.com/docs/journeys/using/building-journeys/about-journey-building/events-activities/segment-qualification-events.html?lang=en).

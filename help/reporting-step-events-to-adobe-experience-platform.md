@@ -1,6 +1,6 @@
 ---
 title: 'Adobe Experience Platform へのジャーニーステップイベントのレポート '
-description: ジャーニーステップのイベント、データステップの概要、および参照方法について説明します。
+description: ジャーニーステップのイベントとデータステップの概要と参照方法について説明します。
 feature: Journeys
 topics: Introduction
 kt: 5488
@@ -10,21 +10,17 @@ doc-type: video
 activity: use
 role: User, Admin
 exl-id: 1ce7909e-173b-46f4-b20c-e6b5bfcb9d2c
-source-git-commit: a549754dd3fbffb7b45a7d66db6778bceb13ef7d
+source-git-commit: 19c80da551ace9a92ad4c21e8427c23abfd05163
 workflow-type: tm+mt
-source-wordcount: '101'
-ht-degree: 55%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
 # [!UICONTROL Adobe Experience Platform] へのステップイベントのレポート
 
-[!UICONTROL Journey Orchestration] は、他のデータと組み合わせて分析目的に利用できるように　[!UICONTROL Adobe Experience Platform] にジャーニーパフォーマンスのデータを自動送信します。
-次のビデオでは、 [!UICONTROL ジャーニーステップイベント] そして [!UICONTROL データ手順] が自動的に作成される日時： [!UICONTROL Experience Platform].
+ジャーニーステップのイベントとデータステップの概要と参照方法について説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/36636?quality=12)
 
-## その他のリソース
-
-* [Journey Orchestration ヘルプセンター](https://experienceleague.adobe.com/docs/journeys/using/journey-orchestration-home.html?lang=ja)
-* [ジャーニーステップ共有の概要](https://experienceleague.adobe.com/docs/journeys/using/building-journeys/sharing-journey-steps/sharing-overview.html?lang=en)
+詳しくは、 [ジャーニーステップの共有の概要](https://experienceleague.adobe.com/docs/journeys/using/building-journeys/sharing-journey-steps/sharing-overview.html?lang=en) を参照してください。

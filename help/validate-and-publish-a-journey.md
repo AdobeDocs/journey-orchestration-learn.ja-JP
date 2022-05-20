@@ -10,26 +10,18 @@ doc-type: video
 activity: use
 role: User, Admin
 exl-id: 63d89150-7c1e-4869-9c8d-0371e0c82ee1
-source-git-commit: 3a8f10c61b4533628dce358c0c84e289fdf5a1c4
+source-git-commit: 19c80da551ace9a92ad4c21e8427c23abfd05163
 workflow-type: tm+mt
-source-wordcount: '108'
-ht-degree: 59%
+source-wordcount: '63'
+ht-degree: 15%
 
 ---
 
 # ジャーニーの検証と公開
 
-テストプロファイルを使用すると、ジャーニーを公開前にテストできます。ジャーニーをテストすると、個人がジャーニーをどのように進んでいるかを分析し、公開前にトラブルシューティングできます。
-
-次のビデオでは、以下をおこなう方法を説明しています。
-
-* **[!UICONTROL テストモード]**&#x200B;を有効にして使用し、ジャーニーを検証する。
-* ジャーニーの公開とステータスの管理
+テストプロファイルを使用して、公開前にジャーニーをテストする方法を説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/30066?quality=12)
 
-## その他のリソース
-
-* [Journey Orchestration ヘルプセンター](https://experienceleague.adobe.com/docs/journeys/using/journey-orchestration-home.html?lang=ja)
-   * [ジャーニーのテスト](https://experienceleague.adobe.com/docs/journeys/using/building-journeys/testing-the-journey.html)
-   * [ジャーニーの公開](https://experienceleague.adobe.com/docs/journeys/using/building-journeys/publishing-the-journey.html)
+詳しくは、製品ドキュメントを参照してください。 [ジャーニーのテスト](https://experienceleague.adobe.com/docs/journeys/using/building-journeys/testing-the-journey.html)
+および [ジャーニーの公開](https://experienceleague.adobe.com/docs/journeys/using/building-journeys/publishing-the-journey.html)
