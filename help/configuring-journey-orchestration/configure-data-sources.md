@@ -1,6 +1,6 @@
 ---
 title: Adobe Journey Orchestration のデータソースの設定
-description: 「Experience Platformデータソースの設定、外部データソースの設定、ジャーニーでのデータの検索と使用の方法を説明します。」
+description: Experience Platformデータソースの設定、外部データソースの設定、ジャーニーでのデータの検索と使用の方法について説明します。
 feature: Data Sources
 topics: Data Sources
 kt: 2774
@@ -10,7 +10,7 @@ doc-type: video
 activity: setup
 role: Admin
 exl-id: 06fbf5ae-aae1-4a62-af84-18303c9674c9
-source-git-commit: 6f3d3fcac73e5c770ae3171e2e14a22713f0d571
+source-git-commit: 3a8f10c61b4533628dce358c0c84e289fdf5a1c4
 workflow-type: tm+mt
 source-wordcount: '145'
 ht-degree: 85%

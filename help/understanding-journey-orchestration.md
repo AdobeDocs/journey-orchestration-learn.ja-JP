@@ -1,6 +1,6 @@
 ---
 title: Journey Orchestration について
-description: 「Journey Orchestration の概念、Journey Orchestration によって実現する使用例のタイプ、Journey Orchestration がどのように機能するかに関する重要な要素を理解します」
+description: Journey Orchestration の概念、Journey Orchestration によって実現できるユースケースのタイプおよび Journey Orchestration の主な要素の仕組みを理解します。
 feature: Overview
 topics: Introduction
 kt: 2773
@@ -9,19 +9,19 @@ audience: user, developer
 doc-type: video
 activity: understand
 role: User, Admin
-source-git-commit: f46e7dd5cbd60a16b5ab8a58a5a548735a3708fc
+exl-id: db4f69bb-183c-4376-9791-eb6b1f78ab32
+source-git-commit: 3a8f10c61b4533628dce358c0c84e289fdf5a1c4
 workflow-type: tm+mt
 source-wordcount: '340'
 ht-degree: 100%
 
 ---
 
-
 # [!UICONTROL Journey Orchestration について]
 
-## [!UICONTROL Journey Orchestration の概要]
-
 [!UICONTROL Journey Orchestration] を利用すると、イベントやデータソースに格納されているコンテキストデータを使用して、リアルタイムオーケストレーションのユースケースを実現することができます。
+
+## [!UICONTROL Journey Orchestration の概要]
 
 [!UICONTROL Journey Orchestration] は、Adobe Experience Platform と統合されたアプリケーションサービスです。インテリジェントでオープンなエコシステムを提供し、マーケティングから業務さらにサービスに至るまで、ビジネスに必要なあらゆるチャネルにわたって、拡張性の高いイベントベースのエンゲージメントを通じて、関連するすべてのライブデータを有効化します。[!UICONTROL Journey Orchestration] では、Adobe Experience Platform や外部配信システムの任意のデータを使用して、魅力的なエクスペリエンスを作成および配信できます。
 
@@ -58,4 +58,3 @@ ht-degree: 100%
 * [Journey Orchestration に関するヘルプの参照方法](/help/understanding-journey-orchestration.md)
 * [Adobe Experience Platform モバイル SDK - Launch](https://experienceleague.adobe.com/docs/mobile-sdk-learn/tutorials/fundamentals/understanding-the-mobile-sdks.html?lang=ja)
 * [Adobe Experience Platform Location Service](https://experienceleague.adobe.com/docs/places/using/home.html?lang=ja)
-
