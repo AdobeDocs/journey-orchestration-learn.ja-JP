@@ -11,9 +11,9 @@ getting-started-title: Help Center
 getting-started-url: https://docs.adobe.com/content/help/en/journeys/using/journey-orchestration-home.html
 level: Beginner
 source-git-commit: 19c80da551ace9a92ad4c21e8427c23abfd05163
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '71'
+ht-degree: 100%
 
 ---
 
@@ -31,6 +31,6 @@ ht-degree: 0%
    + [別のジャーニーへのジャンプ](/help/building-a-journey/jumping-to-another-journey.md)
    + [「プロファイルの更新」アクション](/help/building-a-journey/update-profile-action.md)
 + [ジャーニーの検証と公開](/help/validate-and-publish-a-journey.md)
-+ [レポートツールを使用したジャーニーの分析](/help/analyze-a-journey-via-reporting-tools.md)
++ [レポートツールを使用したジャーニー分析](/help/analyze-a-journey-via-reporting-tools.md)
 + [Adobe Experience Platform へのジャーニーステップイベントのレポート](/help/reporting-step-events-to-adobe-experience-platform.md)
 + [Journey Orchestration に関するヘルプの参照方法](/help/how-to-find-help-with-journey-orchestration.md)
