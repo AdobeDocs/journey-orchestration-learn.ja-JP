@@ -11,9 +11,9 @@ activity: understand
 role: User, Admin
 exl-id: db4f69bb-183c-4376-9791-eb6b1f78ab32
 source-git-commit: 4deaf75fe9e9bb1d5b5a38172d04446f73ac523c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '339'
-ht-degree: 89%
+ht-degree: 100%
 
 ---
 
@@ -39,7 +39,7 @@ ht-degree: 89%
 
 1. [ストリーミングイベントの設定](/help/configuring-journey-orchestration/configure-streaming-events.md) - [!UICONTROL Journey Orchestration] はイベントをリッスンするように設計されているので、この設定は必須です。
 1. [データソースの設定](/help/configuring-journey-orchestration/configure-data-sources.md) - ジャーニーでイベントペイロードからのローカルデータのみを使用する場合、この設定は必要ありません。
-1. [カスタムアクションの設定](/help/configuring-journey-orchestration/configure-actions.md):を通じて呼び出すことのできるサードパーティプロバイダーのサービスを使用する場合は必須です。 [!DNL REST API] JSON 形式のペイロードを使用
+1. [カスタムアクションの設定](/help/configuring-journey-orchestration/configure-actions.md)：JSON 形式のペイロードを使用して [!DNL REST API] で呼び出すことができる、サードパーティプロバイダーのサービスを使用する場合は必須です。
 
 >[!NOTE]
 >
@@ -56,5 +56,5 @@ ht-degree: 89%
 * [Journey Orchestration ヘルプセンター](https://experienceleague.adobe.com/docs/journeys/using/journey-orchestration-home.html?lang=ja)
 * [Adobe Experience Platform チュートリアル](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=ja)
 * [Journey Orchestration に関するヘルプの参照方法](/help/understanding-journey-orchestration.md)
-* [Adobe Experience Platform モバイル SDK - Launch](https://experienceleague.adobe.com/docs/platform-learn/data-collection/mobile-sdk/overview.html?lang=en)
+* [Adobe Experience Platform モバイル SDK - Launch](https://experienceleague.adobe.com/docs/platform-learn/data-collection/mobile-sdk/overview.html?lang=ja)
 * [Adobe Experience Platform Location Service](https://experienceleague.adobe.com/docs/places/using/home.html?lang=ja)
