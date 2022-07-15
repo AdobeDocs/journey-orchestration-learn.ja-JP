@@ -1,6 +1,6 @@
 ---
 title: Adobe Journey Orchestration 用のストリーミングイベントの設定
-description: Journey Orchestrationイベント用の XDM スキーマとデータセットの設定、Journey Orchestrationでのイベントの定義、イベントをストリーミングするソースシステムの設定をおこなう方法について説明します。
+description: Journey Orchestration イベント用の XDM スキーマとデータセットの設定方法、Journey Orchestration でのイベントの定義方法およびイベントをストリーミングするソースシステムの設定方法について説明します。
 feature: Data Sources, Events, Schemas
 topics: Events
 kt: 3731
@@ -36,7 +36,7 @@ ht-degree: 0%
 >
 >このビデオで使用されている例を理解するには、以下の Adobe Experience Platform サービスについても理解しておく必要があります。
 >
->* [Adobe Experience Platform モバイル SDK](https://experienceleague.adobe.com/docs/platform-learn/data-collection/mobile-sdk/overview.html?lang=en)
+>* [Adobe Experience Platform モバイル SDK](https://experienceleague.adobe.com/docs/platform-learn/data-collection/mobile-sdk/overview.html?lang=ja)
 >* [Adobe Experience Platform Location Service](https://experienceleague.adobe.com/docs/places/using/home.html?lang=ja)
 
 
