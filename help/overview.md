@@ -1,17 +1,17 @@
 ---
-title: Journey Orchestration チュートリアル
-description: Journey Orchestration を利用すると、イベントやデータソースに格納されているコンテキストデータを使用して、リアルタイムオーケストレーションのユースケースを構築できます。
+title: Journey Orchestration チュートリアル - 概要
+description: Journey Orchestration を利用すると、イベントやデータソースに格納されているコンテキストデータを使用して、リアルタイムオーケストレーションのユースケースを実現できます。
 products: Journey orchestration
 role: User, Admin
 exl-id: e82cde5a-d100-49d7-bea1-5b6d11c1193f
-source-git-commit: 19c80da551ace9a92ad4c21e8427c23abfd05163
-workflow-type: ht
-source-wordcount: '208'
+source-git-commit: 88ee4113f06f310b68ead54a156372d78cb934aa
+workflow-type: tm+mt
+source-wordcount: '210'
 ht-degree: 100%
 
 ---
 
-# Journey Orchestration チュートリアル
+# Journey Orchestration チュートリアル - 概要
 
 [!UICONTROL Journey Orchestration] は、Adobe Experience Platform と統合されたアプリケーションサービスです。これを利用すると、イベントやデータソースに格納されているコンテキストデータを使用して、リアルタイムオーケストレーションのユースケースを実現できます。
 
