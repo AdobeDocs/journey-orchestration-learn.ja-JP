@@ -4,23 +4,35 @@ description: Journey Orchestration を利用すると、イベントやデータ
 products: Journey orchestration
 role: User, Admin
 exl-id: e82cde5a-d100-49d7-bea1-5b6d11c1193f
-source-git-commit: 88ee4113f06f310b68ead54a156372d78cb934aa
+source-git-commit: 73eee54dae0f6a765e0dcd6bcab35cf67f891294
 workflow-type: tm+mt
-source-wordcount: '210'
-ht-degree: 100%
+source-wordcount: '209'
+ht-degree: 98%
 
 ---
 
-# Journey Orchestration チュートリアル - 概要
+# Journey Orchestrationチュートリアル
 
 [!UICONTROL Journey Orchestration] は、Adobe Experience Platform と統合されたアプリケーションサービスです。これを利用すると、イベントやデータソースに格納されているコンテキストデータを使用して、リアルタイムオーケストレーションのユースケースを実現できます。
+
+<div id="whats-new-section">
 
 ## 最新情報
 
 * **[「プロファイルを更新」アクション](/help/building-a-journey/update-profile-action.md)**
 * **[別のジャーニーへのジャンプ](/help/building-a-journey/jumping-to-another-journey.md)**
-   <br>
    *個人をあるジャーニーから別のジャーニーに移動させる方法を説明します。*
+
+</div>
+
+<div id="recs-overview-body-1"></div>
+<div id="recs-overview-body-2"></div>
+<div id="recs-overview-body-3"></div>
+<div id="recs-overview-body-4"></div>
+<div id="recs-overview-body-5"></div>
+<div id="recs-overview-body-6"></div>
+
+<div id="staff-picks-section">
 
 ## スタッフのおすすめ
 
@@ -67,6 +79,8 @@ ht-degree: 100%
   </td>
 </tr>
 </table>
+
+</div>
 
 ## その他のリソース
 
