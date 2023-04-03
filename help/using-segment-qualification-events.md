@@ -10,10 +10,10 @@ doc-type: video
 activity: use
 role: User, Admin
 exl-id: fc950a20-1543-4eb7-9ca0-2148216a2afc
-source-git-commit: 19c80da551ace9a92ad4c21e8427c23abfd05163
+source-git-commit: cba80e227001486dd97becc826b0a45ab5fc3c53
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '136'
+ht-degree: 48%
 
 ---
 
@@ -29,6 +29,6 @@ ht-degree: 0%
 
 このビデオでは、セグメントを設定する場所およびジャーニーでセグメントの選定イベントを設定する方法について簡単に説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/37901?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/37901?quality=12&learn=on)
 
 詳しくは、 [セグメントの選定イベント](https://experienceleague.adobe.com/docs/journeys/using/building-journeys/about-journey-building/events-activities/segment-qualification-events.html?lang=en).
