@@ -3,14 +3,14 @@ title: Adobe Experience Platform へのジャーニーステップイベント�
 description: ジャーニーステップのイベントとデータステップの概要と参照方法について説明します。
 feature: Journeys
 topics: Introduction
-kt: 5488
+jira: KT-5488
 thumbnail: 36636.jpg
 audience: user
 doc-type: video
 activity: use
 role: User, Admin
 exl-id: 1ce7909e-173b-46f4-b20c-e6b5bfcb9d2c
-source-git-commit: cba80e227001486dd97becc826b0a45ab5fc3c53
+source-git-commit: 2735cd3a855e6e8a21381fb77683ed65dab6b1e5
 workflow-type: tm+mt
 source-wordcount: '61'
 ht-degree: 24%

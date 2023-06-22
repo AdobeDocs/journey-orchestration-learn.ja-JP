@@ -3,17 +3,17 @@ title: Journey Orchestration について
 description: Journey Orchestration の概念、Journey Orchestration によって実現できるユースケースのタイプおよび Journey Orchestration の主な要素の仕組みを理解します。
 feature: Overview
 topics: Introduction
-kt: 2773
+jira: KT-2773
 thumbnail: 29307.jpg
 audience: user, developer
 doc-type: video
 activity: understand
 role: User, Admin
 exl-id: db4f69bb-183c-4376-9791-eb6b1f78ab32
-source-git-commit: cba80e227001486dd97becc826b0a45ab5fc3c53
+source-git-commit: 2735cd3a855e6e8a21381fb77683ed65dab6b1e5
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '339'
+ht-degree: 100%
 
 ---
 
