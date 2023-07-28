@@ -2,9 +2,10 @@
 title: Journey Orchestration チュートリアル - 概要
 description: Journey Orchestration を利用すると、イベントやデータソースに格納されているコンテキストデータを使用して、リアルタイムオーケストレーションのユースケースを実現できます。
 products: Journey orchestration
+feature: Overview
 role: User, Admin
 exl-id: e82cde5a-d100-49d7-bea1-5b6d11c1193f
-source-git-commit: 73eee54dae0f6a765e0dcd6bcab35cf67f891294
+source-git-commit: b32b245c9738b860d8f6417e7e37d079d75b07f9
 workflow-type: tm+mt
 source-wordcount: '209'
 ht-degree: 98%
@@ -21,7 +22,7 @@ ht-degree: 98%
 
 * **[「プロファイルを更新」アクション](/help/building-a-journey/update-profile-action.md)**
 * **[別のジャーニーへのジャンプ](/help/building-a-journey/jumping-to-another-journey.md)**
-   *個人をあるジャーニーから別のジャーニーに移動させる方法を説明します。*
+  *個人をあるジャーニーから別のジャーニーに移動させる方法を説明します。*
 
 </div>
 
