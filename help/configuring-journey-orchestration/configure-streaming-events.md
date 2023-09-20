@@ -1,7 +1,7 @@
 ---
 title: Adobe Journey Orchestration 用のストリーミングイベントの設定
 description: Journey Orchestration イベント用の XDM スキーマとデータセットの設定方法、Journey Orchestration でのイベントの定義方法およびイベントをストリーミングするソースシステムの設定方法について説明します。
-feature: Data Sources, Events, Schemas
+feature: Data Sources, Events
 topics: Events
 jira: KT-3731
 thumbnail: 29338.jpg
@@ -10,7 +10,7 @@ doc-type: video
 activity: setup
 role: Admin
 exl-id: 2d0c05d5-803e-4a79-911f-ceb380ff9d0e
-source-git-commit: 2735cd3a855e6e8a21381fb77683ed65dab6b1e5
+source-git-commit: 99bdf8ca7288db3a33831b67fd954686f8f18673
 workflow-type: tm+mt
 source-wordcount: '261'
 ht-degree: 72%
