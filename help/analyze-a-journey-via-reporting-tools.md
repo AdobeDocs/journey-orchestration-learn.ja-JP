@@ -10,10 +10,10 @@ doc-type: video
 activity: use
 role: User, Admin
 exl-id: f6f13fba-d815-424f-86e5-918577609882
-source-git-commit: 2735cd3a855e6e8a21381fb77683ed65dab6b1e5
-workflow-type: ht
-source-wordcount: '83'
-ht-degree: 100%
+source-git-commit: 9db2765ee5e9520280711a6b1fe3c618963f6f87
+workflow-type: tm+mt
+source-wordcount: '85'
+ht-degree: 97%
 
 ---
 
@@ -21,6 +21,6 @@ ht-degree: 100%
 
 ジャーニーのレポートに移動する方法、レポートの日付範囲をカスタマイズする方法、後で使用するためにレポートテンプレートを保存する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/29321?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/29321?learn=on){transcript=true}
 
 詳しくは、[Journey Orchestration レポートについて](https://experienceleague.adobe.com/docs/journeys/using/journey-reports/about-journey-reports.html?lang=ja)を参照してください。
