@@ -12,14 +12,14 @@ role: User, Admin
 exl-id: fc950a20-1543-4eb7-9ca0-2148216a2afc
 source-git-commit: 9db2765ee5e9520280711a6b1fe3c618963f6f87
 workflow-type: tm+mt
-source-wordcount: '138'
-ht-degree: 47%
+source-wordcount: '128'
+ht-degree: 53%
 
 ---
 
 # セグメントの選定イベントの使用
 
-セグメントの選定イベントを使用すると、ジャーニーは、Adobe Experience Platformセグメント内のプロファイルのエントリと離脱をリッスンできます。 このイベントタイプは、個人がジャーニーにエントリしたり、ジャーニーを進んだりする際に使用します。
+「セグメントの選定」イベントを使用すると、ジャーニーは、Adobe Experience Platform セグメント内のプロファイルのエントリや離脱をリッスンできます。 このイベントタイプは、個人をジャーニーにエントリさせたり進行させたりするために使用されます。
 
 以下のようなユースケースがあります。
 
@@ -31,4 +31,4 @@ ht-degree: 47%
 
 >[!VIDEO](https://video.tv.adobe.com/v/37901?learn=on){transcript=true}
 
-詳しくは、 [セグメントの選定イベント](https://experienceleague.adobe.com/docs/journeys/using/building-journeys/about-journey-building/events-activities/segment-qualification-events.html?lang=en).
+詳しくは、[ セグメントの選定イベント ](https://experienceleague.adobe.com/docs/journeys/using/building-journeys/about-journey-building/events-activities/segment-qualification-events.html?lang=en) を参照してください。

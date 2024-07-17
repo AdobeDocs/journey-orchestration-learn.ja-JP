@@ -12,8 +12,8 @@ role: Admin
 exl-id: 2d0c05d5-803e-4a79-911f-ceb380ff9d0e
 source-git-commit: 9db2765ee5e9520280711a6b1fe3c618963f6f87
 workflow-type: tm+mt
-source-wordcount: '263'
-ht-degree: 72%
+source-wordcount: '216'
+ht-degree: 74%
 
 ---
 
@@ -21,14 +21,14 @@ ht-degree: 72%
 
 [!UICONTROL Journey Orchestration] は、イベントをリッスンし、これらのイベントに基づいて、顧客のジャーニー内で最善の次のアクションをオーケストレーションします。イベントは、次の項目に関連付けることができます。
 
-* 個人の直接的なアクション（製品の購入、店舗への訪問、買い物かごの放棄など）、または
-* 個人に関連する何か（例えば、10,000 ロイヤルティポイントに達した）
+* 個人の直接のアクション（製品の購入、店舗への訪問、オンラインの買い物かごの放棄など）
+* 個人に接続して発生した事象（10,000 ロイヤルティポイントに到達など）
 
 [!UICONTROL Journey Orchestration] イベントは、[!UICONTROL XDM エクスペリエンスイベント]で、[!UICONTROL ストリーミング取り込み]を介して Adobe Experience Platform に送信されます。
 
 >[!NOTE]
 >
->以下に関する知識が必要です。
+>次の点に精通している必要があります。
 >
 >* [エクスペリエンスデータモデル（XDM）](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/schemas-and-experience-data-model.html?lang=ja)
 >* [エクスペリエンスイベント用の XDM スキーマの作成方法](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/create-schemas.html?lang=ja)
@@ -49,4 +49,4 @@ ht-degree: 72%
 
 >[!VIDEO](https://video.tv.adobe.com/v/29338?learn=on){transcript=true}
 
-詳しくは、 [イベントについて](https://experienceleague.adobe.com/docs/journeys/using/events-journeys/about-events/about-events.html?lang=en) の節を参照してください。
+詳しくは、製品ドキュメントの [ イベントについて ](https://experienceleague.adobe.com/docs/journeys/using/events-journeys/about-events/about-events.html?lang=en) セクションを参照してください。
