@@ -1,11 +1,10 @@
 ---
-source-git-commit: 33b77dc26229120fce22909b7085b235e2ff59cc
-workflow-type: ht
-translation-type: ht
-source-wordcount: '10'
-ht-degree: 100%
+source-git-commit: 5f7dec705f73509e0dd4c8eec2c34398ed1698b4
+workflow-type: tm+mt
+source-wordcount: '14'
+ht-degree: 7%
 
 ---
 # journey-orchestration-learn.ja-JP
 
-Journey Orchestration のビデオおよびチュートリアルのテクニカルマーケティングレポート
+このリポジトリはアーカイブされています。 コンテンツが最新ではありません。 journey-orchestion.en 製品ドキュメントを参照してください。
